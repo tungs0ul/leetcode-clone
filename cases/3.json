@@ -1,0 +1,3423 @@
+[
+  { "input": ["Y4HwuLnP4bHovwRKWn7"], "expected": 0 },
+  { "input": ["YwVB4WY2lqpMwsXz9ipFWtVVyRIPb1aPhhg4BOQ6"], "expected": 0 },
+  { "input": ["L01l1SDbYj6YO2D9Yr4cLG"], "expected": 0 },
+  {
+    "input": [
+      "Ou1uw8foVIvtypYjwdpk695Yqedi0eBS8EMH5mAfjKwI7DSBl1yz5M2LagTYuU5UUvclildutpaJjlW4QfaO3zNB"
+    ],
+    "expected": 0
+  },
+  { "input": ["kF"], "expected": 1 },
+  {
+    "input": [
+      "yn0EXsBQFsBtLA3NmmZtNILyYtAwNTv1vKxrWxZrrLmCYMzrChfd3wOQo0byOc1VbVr0fNkjsQWdrsAvngk32psI7JM2RXniNwd"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "GMoEv8S8ukSuybPGcgSLJp7IEQdNzC8AVOXHvIxB3FOTgTJn6Ow0dE6KARPoONsOZX"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "pZJyeHRdA9pkw6paHVkJd28JvKXXhyZNKrxZ7g8TAe5cqHNG4WCgIz9po87IBA49021chl57j2NRdZ6OSOg28TpId4rn"
+    ],
+    "expected": 0
+  },
+  { "input": ["b8g2QAmbjYYxw6JHz3hNMA1Hwd"], "expected": 0 },
+  { "input": ["CTLzQ7TuA9qQjBN4HdDpVQ"], "expected": 0 },
+  {
+    "input": [
+      "0N0mZGfXaR6e5NeU202d3xZeNInhHN1uQ2VrT47VAHpwtP8uac1Pz40f1BPwi2mbC0w6m4wJQZdHC78MjCfVC0NcfyFf"
+    ],
+    "expected": 0
+  },
+  { "input": ["35azHQPVK2yK0pu1Ucuq7oXAJ4QdktidpR5ftRuwYO"], "expected": 0 },
+  {
+    "input": [
+      "N64nitNDf2d9k17xyJOS0W7clkDLyg3xhTrVZilArbcEeqRqcRs1UhRIwAKbEvI"
+    ],
+    "expected": 0
+  },
+  { "input": ["lxUumoMvPFTk0yaepYNh2Czx"], "expected": 0 },
+  {
+    "input": [
+      "42nampIMYZqYRXRey6iNl7MVq31V5Fot9oDisxFd6gqUxVoOHJ1t8c3pv8XBE0OyV15FbpcIxZ1pv3O7"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ypXexaIU4cDyvEqJnATYxflMzWZIVCMnn5qR2xSBZIQ7SnVOIHfMKZASZM5MTbJyGGyFG8XTg"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Ump89U96xDCk0uFhQHz4qcjWD33bitdWVTrtWqMrRsI89NUzRJSr0di9QzZWH5AqfRK6tttx8"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["6j0xoU7FxrsDjeohnupecH9Rxr5gYVQaFzK7qhubXeiTaXv65X"],
+    "expected": 0
+  },
+  { "input": ["sUVXkqbM8OyeCeSMBgvMzq5mJVmxmD"], "expected": 0 },
+  {
+    "input": [
+      "t9aSZIGx5iYTCI5w3JKn0Hg5OKGCnqoCSgum8ZuQoXur4PNIj9Otik5Soiz1Pjz6l5MZ0"
+    ],
+    "expected": 0
+  },
+  { "input": ["MK1o9DroTrcKxZK"], "expected": 0 },
+  { "input": ["v"], "expected": 1 },
+  {
+    "input": [
+      "qOaglXKSvVvWe3yOjXJXQIxtzUCugIsK6RUyzxg3IIqp07Fy1qCJhPpLChaZ0ewgy2Bx"
+    ],
+    "expected": 0
+  },
+  { "input": ["buvh7Jn9HBRlLhTmpPHBHwCqI7hxLXAzgHvdLsAS7Taq"], "expected": 0 },
+  {
+    "input": [
+      "k4BAfJ4PW44DPfTX9HMVAopaThWUnYOfe5xggMXlIVNumB6b120ztR11JJriOjiJNoVL6l4ezdpgH7DWCvXgfC25HcKuoq"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "u2XIRbxBoJXbnsSrK1SAgySDagycSJPetj77Ezi73v1wzgg2Q0Kci9NoHBTai6EPhUROCgumICzQTslbp9cuL5prJPJ8d"
+    ],
+    "expected": 0
+  },
+  { "input": ["RAXqpRhfqxogMTGR2S"], "expected": 0 },
+  { "input": ["wFfPyEoqTohiHw8wZjpZ64ktbJY0qLNBA3zeWs"], "expected": 0 },
+  {
+    "input": [
+      "swQ1MTVki7YGPWHp3MnszNFdZ6e09qRKvqfaEI7FHVrfGNDLPog4vVG3vDmPVYox05xyeUIzPkdO8A3Vr6w01zXFy3PbsF"
+    ],
+    "expected": 0
+  },
+  { "input": ["bzE1zC21rtXSSsLp"], "expected": 0 },
+  { "input": ["V7Z3Uhh1oFDxBKN5EoPzEENMQZ9S2gNyRVH5LvAjJpX"], "expected": 0 },
+  { "input": ["n5uPn0EjqLz3LGLeTqH"], "expected": 0 },
+  { "input": ["rFliF2yen6QoLKeL3yqP"], "expected": 0 },
+  {
+    "input": [
+      "408qDZ7yw5B255h7YsonGBjttJPs95HcaKtCb6D0JONA8NuzPUpHmtYZWj5lXmoZ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "NMTOu0UGfyUSZRA0mAFUNiCxuMgsGRsOy2cWMp3ZO4sg7LkWrvayk35uoV40mZTXZgq4UPbpEPPHC059VYTPl89"
+    ],
+    "expected": 0
+  },
+  { "input": ["JtfLFziME6gzcm8CSIGuAw0uSqI9U64npnR1SMSP"], "expected": 0 },
+  { "input": ["YzolfpVHImEF90QeaYMoVuO"], "expected": 0 },
+  {
+    "input": [
+      "lHSu1brohJbVuqPDwFBSqnh7t1S5XGf6rng0ulvryhNfld44yu19hoRrZQFBQAU2ydQgrgFGRv6g6tg73C2vcMni4ql5Ek4t"
+    ],
+    "expected": 0
+  },
+  { "input": ["IzYUQdBn699wWpIDrPrs6ZO8qATKkpdI8StfeTaIllPk"], "expected": 0 },
+  {
+    "input": [
+      "mANuh8UxRSgJcmLT4g2kgu53uVxfO4YTJKfbkI3FuBFfeknjLZFpmEpro3YUC8YHW3aOeQHTggw0b0qIlmGRzO8sCs"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "gU0clQQfOZSnyT7OUZmc2lYKuny3W7ybRYOLv7b33oiRsGOJRDTg9fhLS9ebmsZ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["QeW9kem6LcWrkrZfKU09Rwf7IpoT0WaR17FLAMsNLTO0ojaxhO"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "9loIFFdF04bZWjuVmID28eEbUl56zsdF6mW3c5GRPZiq65cJIFbUNvEkESy7jQXfeGbUNgDkVNl3sm1WDWbIWBx3MGZFTwJB"
+    ],
+    "expected": 0
+  },
+  { "input": ["nBBJ7NFppjTeEfxPBVMUnqFerpyDpjHfx0BMe39"], "expected": 0 },
+  {
+    "input": [
+      "CHLv5vjhANhoZsjoJzpZdyAcltH9ZmB1MZygEMyAzyDMynbr4OxmZVdwOse8kCpnpHmXVZnl67HDUHI"
+    ],
+    "expected": 0
+  },
+  { "input": ["xF1FDkfzAABDCxls4Z"], "expected": 0 },
+  { "input": ["EmXB9Whl0CzsP"], "expected": 1 },
+  { "input": ["FzyPGvfkuQmOxaK0MTquscK7OSsiM48YOW1Z6M5s8Sa"], "expected": 0 },
+  { "input": ["TA1A5tI"], "expected": 0 },
+  { "input": ["UuCmJ1DYJ"], "expected": 0 },
+  {
+    "input": [
+      "TdhZew2PudxJrEAuddw4jL7nbWATzFKsLHgYMC4jd0vF2DofT8I2IqR8pppsvEjg1btNX6we9Zo81FMF"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["9Iq6CBKbuKn6qYDSNZWIIQR5gJGgHkcVoBqaatcGMSnvYYf"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "tme0Adj39LZTNjkim8TQZdSPlBFTrBrez6MFtlCHXeHl5YcrljGJxNCtVRA2pWPXV7Q2ByFnWBpTjmeILKfRhAtKU4R0"
+    ],
+    "expected": 0
+  },
+  { "input": ["ZkyvLuB9ocl5f2fZsrZhJcCXaqJYP3fwNgvpSv3yzei"], "expected": 0 },
+  { "input": ["gFKPlT8wjz2U8DbmCsWcI2NzHrgEQh7qsFr0VYJ"], "expected": 0 },
+  {
+    "input": ["GQWc7tyifL25QJGbE1acQ91xMtKs749MJK3zFU27WOKfAAspqJHjcW9"],
+    "expected": 0
+  },
+  { "input": ["6rHhnqdE9nVTER4uH6Gg18gGEJZFnaA4wsX8"], "expected": 0 },
+  {
+    "input": [
+      "IqkG0K3kLoQzdcuMj4mkGLFXMXTqzbF8RpNshOhGhPyegEv0WYMIlAqHqymKHpjS0FcOw2uA161HRZHZEiz5PibyZs3Y"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["ZMWpycQeiKthnBRYNz4rzqz530hpeYMF4vOFUio2Ih5WrtiCJEoOyPbd"],
+    "expected": 0
+  },
+  {
+    "input": ["yN0etfp2j59qjaUaXhGqTh1ri0fM7HBkkkURniRAigGJQXvAmEPyGM"],
+    "expected": 0
+  },
+  { "input": ["ckx"], "expected": 1 },
+  { "input": ["zrYBhiL2LZTVw1hWvDVEVzmwCnAnbzL9ZQ2NMAjMhRt2"], "expected": 0 },
+  {
+    "input": [
+      "aN4AlZuqCb0V3BR6v7tQvVwlhnoJLVEUqhZfzM4WBd8lgGPBl1JHmfCoS2gauel2Uti2"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "3HOnORT8LJyVtmekwR9EWCkiksNFy2F6l5h8K0xLQ1Qb9XSNYTBXJMwf2kjuL7Zh9aBrAcd5dgezia3Ivz1"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "mwzCIRhIoDUPSBdnRZBKPnwkaNl81D87wHgIYbvQBX8XEkhUR4E54hBdHXNZc9ppZ5qwDKncdx8gLzcYUEVO9O"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Q4XxVDD5Z9Si6W8mXmjRWVw513IiFMawjdgNn6mEd7LqRksUBDAx7Ji4XzCKESCi1eGOHgOYiH4r79v39LWjb7yR481rM6"
+    ],
+    "expected": 0
+  },
+  { "input": ["Scjh0aUPnDoK9ZrE8ESxDUO8yuhBHvzmRPa23d"], "expected": 0 },
+  {
+    "input": [
+      "XsEy2w7XuxrrPErOwaFjZw0qx1RlEcESqngZ3wGykDHKdkmRw6ULUvZ4b2Liv2pmXoyYbUld21yHZyZ10iAsLD1ddyi4VXL31V"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "V2MKWt7jUzgWWj7rHvp9GRZxbGT2PfQbG3aZoDi2fbgWr5fW3AfLl94PFwEg4Dc3mQ1dLoNfDtNYw6D"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "5y6wQkODXoOTTJaMc6QJcrz4Di8uIjrqC7xsSaigvXQXzcJCFP81um8Gps19pFgcuZbIh0uSP9ZaNR"
+    ],
+    "expected": 0
+  },
+  { "input": ["MjLjocW5kNnaxQ2rw5PmMZhQfOCgRyrV"], "expected": 0 },
+  {
+    "input": ["UL6PeiZg1twg9HJ4aQchAZYPPqPf44bobSCvm3bMI2KPowTZdQrUgWznsX"],
+    "expected": 0
+  },
+  { "input": ["Fy7SaFkFxEfg5BA6ck7fPiTtFfT"], "expected": 0 },
+  {
+    "input": [
+      "xZoa5epxsr6TQz2MpKepfo3vyhb8fnJvmM98eP01dFhfH1r3ccWN6wQL2MAGQ7qUPkrz6tnllRAwNE9lv4N1erORNdhwb9"
+    ],
+    "expected": 0
+  },
+  { "input": ["rkfNZV1pXRZCrQez0p"], "expected": 0 },
+  {
+    "input": ["N70NXZHNFayjJfLpa1RXQYaReGQF81wHc4gNeO0MYcSwVMJRR"],
+    "expected": 0
+  },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "4Y540XFP7nqWxv7BdXrTyfnIjXqW84pSPkZeOdURU5daY6KCF8W0AITisgIELstBvOAAUPyREG1GMrbCbv1zK"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["mq0C9HitEkLVCBA0ndocLjpjxUPKjofmsMG2xZSofc9vNdKrLtfDQ"],
+    "expected": 0
+  },
+  {
+    "input": ["nqPUihoHfM52GQUbnM9Xp3rrlmtYczcORGvfYTFwWsaqGpNlk5xxvqn"],
+    "expected": 0
+  },
+  { "input": ["Zno3e5vOQ"], "expected": 1 },
+  {
+    "input": ["cKN55CVcygi8iivihH1leDk6CXHNwhkCg7tFZ4kYbXokfYAX"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "oGve9808bX7Q247DqOsPodOHZgetGPufjBATU4caDZpWbPeqtiZjqMzcBcCHXNomF8rhxhNSaNMd"
+    ],
+    "expected": 0
+  },
+  { "input": ["A9yNriY0h2czUSPj13lkfk2oLxLTNhLkPQ5ZgPr"], "expected": 0 },
+  {
+    "input": [
+      "aBJmpCpo8ZBngE0dJ8qQsRcsqWYVSpEIFJ067MQUK9FI5VTERkUocmvwGONu62DeQXYVUMc4bO"
+    ],
+    "expected": 0
+  },
+  { "input": ["8SESyz863OSSINvp1kHkI9kEqEGTqnaONVD1WkYnaa3Sf"], "expected": 0 },
+  {
+    "input": ["IblVx9Ifs7iYBwW2FoxwzvdPgrQ4bQlryDnUldekrCK9z0Wvf9P7iI"],
+    "expected": 0
+  },
+  { "input": ["XiO"], "expected": 1 },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "KYIPZjpNF6dWUPvbaT9xmgRIFxaA8qHtz80LrnrFybrvHmT4cT4mm6JZUbP6aV1CgoKdRWq3fzkANEm4BSBy"
+    ],
+    "expected": 0
+  },
+  { "input": ["KaBul3xiHvn"], "expected": 1 },
+  {
+    "input": [
+      "q9OrAinGUlLvetyakuCjmHWtDP347VkurlcDL0S2kybyTC2l3nePlpHCF7YTgv1k"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "QNerlj515Vp2JBqUlCqjqRVkmnPWeJoUSkCWfWUWnhl2VdrVpmdPpg30GHFo0j7179BjOMpoCMQL2T028r7Yw9auiIXfy"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "BhhyZue4p7N0mxhK2SkhJKv50dyPiSWzEEn9usWmS3UY76OuNd505QduLGmAC91ZTjBNoWcmlIzCD1lwq3O3LoGn6L5"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "19oSAFKlcXMBkZ09bbMiodkgfKAMwpVQn6F3C0f9LHKaOH3TscabMxQEoMw3GgQZBUyE7o2ojPp"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "8X2Y3vRSQhSmwYMEsOsrUIR14xQ2RMSu1jGcR2PjmcSAVviAtoFYGJQPP1OspUxE9j4HyJ"
+    ],
+    "expected": 0
+  },
+  { "input": ["zPyunBrEh5j9QHOTa8rLoaYMZWmNSUwvnn6yUBNRKRZdB"], "expected": 0 },
+  {
+    "input": [
+      "NkSW6vueZZglf89Mk1vxIJGpWSg7iox0XOelbRr16FkrFNx0uBGT4F0Z6aPf4i3eUT6d1ot5EDyoWt3yslAi5U14Xo"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["IIw7RO1jRh5pttoA64nI9UvvmumqWgonW6wlHJa7496PJlrNiMm3CAi6"],
+    "expected": 0
+  },
+  { "input": ["6ZhNbIOOETAPajZ"], "expected": 0 },
+  {
+    "input": [
+      "bbAJJoGvY1yep73x3SVWsmjSAKFpGFXPUtT1wvKe3RZwHiWA76Mizz4LGPaHGyNiqS6Ns"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "7mJ6MmrlUb7hcDIY3uhVF2NY5Zy2PDeLJpRfi7qhbdCCJcyXFw09DjOMwHFcfDFzK9QLNbjX28KvYflJRWiT6J59Wk0NH"
+    ],
+    "expected": 0
+  },
+  { "input": ["GdIcQiSaurKmPiSDo5TFOjgpGrB"], "expected": 0 },
+  { "input": ["do5LZlxOh"], "expected": 1 },
+  {
+    "input": [
+      "oqsWZOxVcBKY3UcMZo3xKHdsOIrVnJQz46eH4IGEIDMOff9LKEoTeNFb4I90amIUGZwXR5rWVpYxcC8eIZpKx28LPT1oOo0oCSQR"
+    ],
+    "expected": 0
+  },
+  { "input": ["YuA07SEmHxfxxlei0WGhEJRBVNSgo1jywgCyuPl"], "expected": 0 },
+  { "input": ["5QNpmYJefyZcslIM5lbIRhyFggzkDTCS"], "expected": 0 },
+  { "input": ["D91wx7a50nXlVWkTUMdGuJrfL"], "expected": 1 },
+  {
+    "input": [
+      "Z2mKehdWKU4QBIIzTskXK1k3fJ0xxwEqY9flpVjXdgmo3s18XEd4IjmNs9j0U8kpAb8fjRcudADRS"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ERhYwqjyQ5P3CYK3F9VNqdJ9RoEPQHteULuxElDamvMEgq63nsPiZ6SflBV0Z3yngTbvjwXvi"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ZbWTiocWWYUGrDtRfzje65OnZMDWK4eUvaKmvOS951b0mchsH7QTMumnEV0GvZj1coAbsTx6D14TWVy8T8UFhRoNbssBkGMbiR"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "xfwRiztLcPiVSMj6AX8V06vxqZkAgrQl0bSh5mCrv8SLkuUlO1XmLVt2lFl7ft73YT5ffTjMG6grBYbShsamza"
+    ],
+    "expected": 0
+  },
+  { "input": ["VbqemVyWBATu3CTpE"], "expected": 0 },
+  { "input": ["utSgIAAFjpAxOCnU6ZOUFnIUpugoHTwn1"], "expected": 0 },
+  { "input": [""], "expected": 1 },
+  { "input": ["PH8Z9OMAzobVYv1ZRLqR5Kx6SyMx6BZnVeSgNe3KZkEU"], "expected": 0 },
+  {
+    "input": [
+      "ruVMixZ8Hb619GqXvywpiX7E9pfFOCkkNosNFA6P0qWFO7mRvBWvIPzJcvdzHEgyhtp6aZOdk"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "dISQjDyyRA9ZXRlp10FF6CZTKPmqxweZFS5Yj14CRfPP6BU0zGJHuVa8RQUGegMQZ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["f9VZtP8auwwjaPofY7uO3eDGW2ytHOf4mVt9wkSsiCaAeDDqyO"],
+    "expected": 0
+  },
+  { "input": ["v9TaGabpIJ67LvJPESIobmzN"], "expected": 0 },
+  { "input": ["feDF1pMTTDllXxKIDirMPh0nX0ItZsDWQ"], "expected": 0 },
+  { "input": ["utekeP4bKvv"], "expected": 0 },
+  { "input": ["fQ5yqSr983P2VAjz9C1Bf"], "expected": 0 },
+  { "input": ["TUL3LdddjS7jJP0koFoofmX1qTVwSWspYW0phCDkz"], "expected": 0 },
+  { "input": ["ZNKy0bmwR6dvAEUjYV358c1lKrr0P"], "expected": 0 },
+  { "input": ["XTwgdFffgCImJEEPNaE3hVqypqpxCnhXp8"], "expected": 0 },
+  {
+    "input": [
+      "xAPAi2f9AjUeRYh1cPvmMndLyZzYgGo5yjEYkH4W67nhWMZn1G0GrfzTjLR8tf8CdCLCxmy1ym6go2tJeiLLGmqjlAQ9"
+    ],
+    "expected": 0
+  },
+  { "input": ["nYLXbGOxcoF0"], "expected": 1 },
+  { "input": ["USDBIc7EHVs87qOO"], "expected": 0 },
+  {
+    "input": [
+      "03B2wyS6KBcAzOAjqktSOAQJ0DpwUe67oU6B80pu0qCVyx0g3elERVkWCcCg2Ua4oA"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "GCu72lcjRfGiyQ958QuZzQi8U2yQxa67P3aeeRsJIlO1xJhGk46aydAqPe5FytRCaTgyx1YPHmsB4exuLMzr62zowEQCkPJG"
+    ],
+    "expected": 0
+  },
+  { "input": ["5zFJv9q8AFW8ABY4T3SYneVOX2dv"], "expected": 0 },
+  {
+    "input": [
+      "Cs26K0cW5Zvbn7pEvCraCbq8czzzRgU7pSSViRb7LvtJQ1tZ6JoWPx1CnLJdtcJBx3A8YNAMCHsSLFciezsyhTar9cxHf"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "7d7hLnWbkYQ3R37sdPk3v0alwzCcqvGhA4B8rdeuKhBzhGDf4zdAIoa7VbRm2cBSEZ8pIQz9ZZ3BZB8nnsrK1n"
+    ],
+    "expected": 0
+  },
+  { "input": ["zKcRIu7vg1sbrjYdIfuoEVQlKQM"], "expected": 0 },
+  {
+    "input": [
+      "jTF28JHT71pb6TdbMU58dzjeR2WO0laJed3kdc3MKlbaBObaiTFnWjCrtb7HcxXDRbjiVShG"
+    ],
+    "expected": 0
+  },
+  { "input": ["Is8ZTTP0juq6rhmY192vURq"], "expected": 0 },
+  {
+    "input": ["hnCNw77BBJhb6HOYzmxmPfCdfeRP8AUFnjqhcPuFig9uuEBe6kaL"],
+    "expected": 0
+  },
+  { "input": ["nLDT4DeJKNlEPIGzEmjP33Qari7bdK0gqX7"], "expected": 0 },
+  {
+    "input": [
+      "4LG5KtL0x2Rgs0YAdJyTuJQdYMuU6qLA00prqXeNBLlLEbCd29e0F3gzxe98eA2SkzOtVsUQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["WaKR1pKggFQCTtC7iN8sE0"], "expected": 0 },
+  {
+    "input": [
+      "aBRNVFrMBsU3AOibM8ePkVpUNPGq5RCD0myhFn5Wa22KXvEchzfnavcRuCraQ0AFPQlu7I7CsmniePyrZSLcXU"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Ake0OKk25fGQavuHuN67OTMaMctXsNPy52QLBkhuIArbAKzmiW6ffQ1jqkoBX14CJF0zqNZpwcS5vBlOJsJ2G0rGhigRREs1qUx5"
+    ],
+    "expected": 0
+  },
+  { "input": ["oFXnBzeX7VcGfZFwn"], "expected": 0 },
+  { "input": ["MX5TGhQBLek1jXTvuN0AcqSDC5beiTBjmHmVZNpZ8C2"], "expected": 0 },
+  {
+    "input": [
+      "g4Ixu4GqISOUjUKTHYfZapBnhuCnQFkKHUfwxv71KWlhd4XbETPM5RX6txFu6Coj3dgpAGv91Lmh4HEqGlzkN6XD"
+    ],
+    "expected": 0
+  },
+  { "input": ["TGvs8eszGpCvD9LC4f2v3fSqupnKiP9ex"], "expected": 0 },
+  {
+    "input": [
+      "eAG4KwZs96wCNi3z3a5g27QPmYU9LtukGfd9U4FrNWNn7PmddDsBQbxigw0Be0C9OfakPvB1KNbDb"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["aj8Wz4c8DXcBRRnspzNIYOsUZBlEsbagDNFzgHIlEPzkxb91G"],
+    "expected": 0
+  },
+  { "input": ["p9fyTLP"], "expected": 1 },
+  {
+    "input": [
+      "88SVW9Ai7BuYqSPAX6wjX7epIkmVyq4gTaB8wgvwr78sFjAvyMtyTPUyDwp7MdEZothCsut"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "M8Q3pScjKoOOdQ93gWc2HrHyvBi7cEADyESH1WIxucsJuyNoBhUlmrPbchEQ7XiT6SQpdH59ZHMrHpM7o"
+    ],
+    "expected": 0
+  },
+  { "input": ["BZb3pQEzZ010HmAWEpLiOPfjAeKYafSGNwBJCm7"], "expected": 0 },
+  {
+    "input": ["hEmsdK2EYQpYva61AQ77pjXLsnutUlxOoZQiHhxPgPtLeLRyq"],
+    "expected": 0
+  },
+  { "input": ["ZVsr"], "expected": 1 },
+  { "input": ["2Nu1r0mYwmluZqtdn1ZbtyxqsWWjs"], "expected": 0 },
+  {
+    "input": [
+      "r8iBLBSO2ab1qCq67XozBZpt3v2ZnYtqVfWSL19OE0XofY54b0u8MnbOm1EpWgc"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "nzjKP8jiqlApmPIo4fAORoPjqNKxQvuDEFvicR7qCUJGxBsd96JdErcd4HTOyFcuRHpbsXB"
+    ],
+    "expected": 0
+  },
+  { "input": ["ufLeSjHbl6V6lKrDaNj1"], "expected": 0 },
+  { "input": ["yj65YRBbKHCIXMSkDNJsV"], "expected": 1 },
+  { "input": ["CQTXFFxD"], "expected": 0 },
+  {
+    "input": [
+      "a2c1BS6iibbf7JiqWmwAEKvxATGnwAE9i6JfZT1doO9aDLIgZf1RIRYkEiSI7qySFKYLVVa"
+    ],
+    "expected": 0
+  },
+  { "input": ["DubeeHjdmOiGr3LMRGMmNL"], "expected": 0 },
+  {
+    "input": [
+      "I5NCJ0hmrV53lOzfSFOY9WJbYA6uadDxJ1VZ2yNAD19bZmlPeAfktIiUyrnJfqY0IN6mH9XfRAOSd"
+    ],
+    "expected": 0
+  },
+  { "input": ["Yyvdji9J7C47zCkKb"], "expected": 0 },
+  { "input": ["Q63hcsECHEgAxXDwkBi"], "expected": 0 },
+  { "input": ["hrhEjFq"], "expected": 0 },
+  {
+    "input": [
+      "sDCPXU7M6m5o0PpvLKUDh8ACReytywP3lQALF6X7Bi2CSZwiA8YGOjYHX1aYhKqYIgiNGzlaILkr6mQu3lnJ7ReIaEr"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["GlHnhgnBEoP7snPAlfWcK68mVUsNIgll1iTO17utaEhrdZLXFGtZlsAyCUxD7"],
+    "expected": 0
+  },
+  {
+    "input": ["yZdHaeZHgrQwgy1K80VdpfL8Ks6TN2586dZOvEsUtPIK50dcXm8F"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "o7uRrH3dU7jvVCXAsh277DlBaOgImLDTWcFAHJWfAC3FydNrSAZIIwQ3YSpwSlpBEbboktnc9vNfP0"
+    ],
+    "expected": 0
+  },
+  { "input": ["jTETYhEwRgoIMrJzz0Q"], "expected": 0 },
+  { "input": ["QhH0MhpX8RLv118f"], "expected": 0 },
+  { "input": ["uTuCBhWFdZm655mTx3BHfxwDbiYd42ly6p"], "expected": 0 },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "WH6DeBv9I9N6OieyBAZquz605HEKXUjtSFXWMdFpyqHrSsaqOEZkE7m2ck8dusPTo4MEtJ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Fp4Crfc3KlniqCiTd28LcYoTtyTEhMOpLeN8GKklHEG8LGTqj1nX8Yg5MIdrNxl4DAj3F2ENjoFTsC2oPQubAj5e"
+    ],
+    "expected": 0
+  },
+  { "input": ["WkIFtiDcvjgDqbD"], "expected": 0 },
+  {
+    "input": [
+      "Wo4GXmsunXieDQsT2KOjVS416lcLVVeI61Kg2qXd6IhcQX6ZGORHS7wutD6PDTUTIImBW"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "WZK1Jhy0n4ZPdCtEihhVj8N5ITKE6cHaXz1diiuWlLQmGMacCyA3Rn7jKlmv12J2Vh7yXJFkl4p80IIq5T41NUj"
+    ],
+    "expected": 0
+  },
+  { "input": ["qzBX2nDqcAUt6DNel0rNkJ6i9PRDpEm"], "expected": 0 },
+  {
+    "input": [
+      "tzfFEz76mkQtDVUqIg3o9LO3HfsIXNf155CXuR1pkWK39MNIgX0keek52ahyNOx7Jvh2LqsB3dynHskNCDFv1s0OfZ"
+    ],
+    "expected": 0
+  },
+  { "input": ["aCxGNJjWFxQv3ETyg7stsz7kikvSImMUVJAR6Ej"], "expected": 0 },
+  { "input": ["02VfUz4RlXsduIpo2sVytHKCSmD"], "expected": 0 },
+  { "input": ["XEN4PTtNsZ21M"], "expected": 0 },
+  {
+    "input": ["xZkSaEFPsOTvz56p4vtl5gp9oqHtzMliXPYgPqHlILh3XFeLftkpzT3ZXk"],
+    "expected": 0
+  },
+  { "input": ["h"], "expected": 1 },
+  {
+    "input": [
+      "nV3RSYmj9tbmPlglANz1ljQJL21ylhBTi9n0bHA78J3LH06wxW2jhxbNa1jlGDvkyIuE"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "JrOuNuULji4GldkL38Cmel8Gcf2G7ECHaIk5reVAUG5tChYs5VTI03os3cZhIb42oaZ2P2dAXrU3zGn"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Sogsea3skZybIJrNBL2zqsVmMGE0a80Y1ZQNet8yfDt1lQVlxH6nlKWeoUSsz92FSNaKTncJyiRwCbpPLQKVpPQs2F"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["h24wfNaPdoCnpwtqIQd2mJy1S8VolyyNsHSEplzuJ6fVMpn33PwedkaR"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "97ZCeLuUCaXvhIgcjrIw3RNeYkKR0xaPKGr5V1dIejGfke1B1os5azqVXL1nh5yn92UfCEC10sk"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Vq9JkD86zuhzdb9xXE7USxvPgeUeMzgsQHkTPbnZTupAWuaF5HPJV4Q0IqEM4ClNPtvHNznzWnAPFP2cz77LjO54ivbchyA2wl"
+    ],
+    "expected": 0
+  },
+  { "input": ["Jryi6yCqKYXrsJzKU89QGgdAEnuiWq4S3EvWTxGBT"], "expected": 0 },
+  { "input": ["p9M9S4ylkwnU"], "expected": 0 },
+  {
+    "input": [
+      "Sm2wQ2dlL9Qie3M7qiS1IzU23VFifSpt0HHpv5FgqOUT4OXMu4V5DHiAKFF7iBaGENSEZFklMTCF2t"
+    ],
+    "expected": 0
+  },
+  { "input": ["exkJw"], "expected": 1 },
+  {
+    "input": [
+      "zl3VrHCMS9YUqUlrJfFWuutfBVRqEQ3FSddLo1t47Sm3ZCbiGwTm5oZxo7IwxAyMDQGN8JEIo6oymRW"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["xAqYAdpZRWekxr9oC3zQejGFtrasDV4bpd1ZTn2qIHULMn9zPdmfKKR"],
+    "expected": 0
+  },
+  { "input": ["PgCj5la4FmO02I3Qg8"], "expected": 0 },
+  {
+    "input": [
+      "selH8SWHLrarWmYeUvHPgJTlfCI9DfgFehUDKgdjEOAJ4CxiKw91fAtgr32xyj7hWR8usq4m"
+    ],
+    "expected": 0
+  },
+  { "input": ["5xM5rDRZqf8yByijWBgSUBZF3SqGAC7WnM9fy"], "expected": 0 },
+  { "input": ["vsHT"], "expected": 1 },
+  {
+    "input": [
+      "3WXTpWH4z8aMFlrCNifE6uwSRy7ZplhBudxEuiSYMdhmGcyqWpd2jPr6nTGuudP6Pd"
+    ],
+    "expected": 0
+  },
+  { "input": ["TNiG4mL"], "expected": 1 },
+  {
+    "input": ["6GFjV9hpwjAXjNSpOYjxUXgxaphul74qONuIiCVYi51L0izy7"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "GCSzGhIeQJCZeYtile9TJGLEslsWj6ezSQjDO4tk87eRVGKizgKSPgF2Z2RzGIKz2Fcj7JKrnCgggeGbsRGkwuzAOLUImR"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "3jbPDctUuZlYjNojG105kfxT1GbSdBVDwX1wS4m0umY0xK3ojKcdLC3on05vhvz3QRmq6MhethC6zFTBhSwr8KGB3i3p2nQ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "xXYfwzmhgfhBhSgJ3zU9ZjfcEVajTkX4UeC7kuhjyStVJZSVSqpQ51uNO1seAeZeYajdlp9grAmCAm8lyANbVaBmO5Kyo9p"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["6hkXepaE3bAeH8sqBJkKXT2hGNtd1uSAcfTwB9ecHgPy2vkwFTLYgu5bX8kQ"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "RLHT6paJqgxl5GTJs2AzQgNVg9GrIyRGw1YG4XqkXJVvQoX41Kj2jFaLY2ZAoKvw3N3gEYAkBGv2D2"
+    ],
+    "expected": 0
+  },
+  { "input": ["MQFbSPIgq"], "expected": 1 },
+  { "input": ["cSd2E4klMrxrTL07LrQ8oXPTXuzoeh23F1uOnd2WYlT"], "expected": 0 },
+  {
+    "input": [
+      "HSZK44nfFvPsT1jbDJLmVVJo6eaWHNIyyEwtt1IZWf9oHvKSsbj45KTS3Ms89jRP1CKTuIWkzv8fmL1R5mCHxE"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "M9FTlo4BNsfX7kT5GygFCH9Kqpf6fN8AbQjgU02AQJhuWlixoryz7MDNaw3uuibNEcHFzVCsH2E1z4y4nwfP6kfo6LWgNIjh7"
+    ],
+    "expected": 0
+  },
+  { "input": ["eTTx6H"], "expected": 0 },
+  {
+    "input": ["C7WLRqZJBj8CvCh7UvP5SfUFkC0ejJZvKIVoiuKVFvKrjC7ODk0"],
+    "expected": 0
+  },
+  {
+    "input": ["JvMIYqXz1W4wb8YGdMpvakrrLYACdDpxOdBTK8LrhfoXQ43b3U"],
+    "expected": 0
+  },
+  {
+    "input": ["x1pkNAP8Jvf1TAAa6YviT2F446Gujf8ee9qErcXFh0dxfMk2bhVtX"],
+    "expected": 0
+  },
+  { "input": ["7EIIiVPbLrFoLdk45ywZrZi58bIhS7rdBb"], "expected": 0 },
+  {
+    "input": [
+      "sKTkxzRId9K8p0GWBUpzjtkld9naTkOaGRXVHfHcYDqadvSGNyU3ojmQGEcv40eMPilQMDqi0XMm2Nx0gIVxFvppkYHTBwPZA"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "HAMDUGmaXofuizdbr27Vd3JRPdBB353DY4BomuW38q7mm5wL38ya1i14sEoEoZb4JuZamJ34Y"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "JFRYBSAPbE7wTyaLzeWpNlKV74AcylxpaiowSAG3YszQCYHMGVVsCzQnjlPQRnJpK"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "q0vvUjez81vVf7wzIxRhB5VuS331hXJao7fs1S3PlIwMeWqVNlYihke5kMV1l4n5SUQmZ3zyyr3YP8EGM7aeivPTQO"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "tSEaXzGM7eLnp0kVZcTkUmBXzyTbCsdjzQ643GNfL7oglJMp7LfZSASF8klNtWlDvRXuQzS5defJggPq7I3Dz7C1mquzAyu"
+    ],
+    "expected": 0
+  },
+  { "input": ["Sr5uzAaF8HJgUIp6"], "expected": 1 },
+  {
+    "input": ["uZNrP8IenekpYm05ZqKKJJ1FdHAjowEDBScDiHYXyYKi9Kd9uF3DP5e57"],
+    "expected": 0
+  },
+  {
+    "input": ["27Xxq2IZkUHqYWG89niRxWcZbPNmi9vi96nUjNLbHVNvL73P0vzEvvzV5h"],
+    "expected": 0
+  },
+  {
+    "input": ["1lg08ID2gV9k1ztrixwgvTC0l15fQqFTx0i57M56R4DdcshUhcVsCu"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "RXMTAcW1lzVLPcjuXiZPuXvzftRFBSY5MxNXByKH8IaGYagsDQbmuLm9TTuXtwJ8wYahPiUmewSERu2I2pqK3N7Nz0hjD"
+    ],
+    "expected": 0
+  },
+  { "input": ["M8dKrTHCZKgmhop"], "expected": 0 },
+  { "input": ["NMwmYr5QW3ghTuLB28SpmL0"], "expected": 0 },
+  {
+    "input": ["73S8kKKL797HZypXyY28cPZMIiYbcPfpFqmrpyjfx3RLIhVl3TOzBq8T"],
+    "expected": 0
+  },
+  { "input": ["Et5pm05ePz"], "expected": 0 },
+  { "input": ["viU9B"], "expected": 1 },
+  {
+    "input": [
+      "NxiMhOV8kU2eey1dVdUIAx0TD6IljV1Bzg3UTY7oPq7t58fziU1oK85S88QzAfCYC6AgjMP9mXOkf4mRTAtTwvVp"
+    ],
+    "expected": 0
+  },
+  { "input": ["PRYv"], "expected": 1 },
+  {
+    "input": [
+      "59pX2zOFCP8MBoUMW4UOvJ6MmDwF5BUMyqPj2W0WHQFXZyviaQjkF68qMT1gWePV7WygMSgxXeJPXoZGF0Cpf1Qt39"
+    ],
+    "expected": 0
+  },
+  { "input": ["ynyJUh0auVhzjrHLRaNzIykg9gRrZHEbspZ7AwRjSE6ET"], "expected": 0 },
+  {
+    "input": [
+      "Fxm6KLAGY29bV9M66HiYooQVX0v4F4i5kTzD951bTHdKng6I1YWrI0ZqacbCAQfT6SnLArr8ztIs2lM8sJnkIzlMjJd96t35"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "EwtamtS4TtPfRdlx0YthtaKv2v3Gbx3IjJRChfKRXuVKO25pC8zxTGBD51FRUoC0"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "LoIQKTv0GtIPK27Qtjssj6aJxXuow0IZsmx2GTZViVabifXH5tiFRt9rYNzIEAf4QEbCSG"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["UuDRmOLP0gC62rtqwv98cS8ApoeUPAIRFMENVn7pymaMEKsob7zpcb2"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "oaVOLCp9H6txe0X5sghkT7OljqslSsgeCH5eqlK2cc1I3wOcHzjd6s7u61U5LJXwSSeOvShX2Fc7dct"
+    ],
+    "expected": 0
+  },
+  { "input": ["pW0CacgZpxZ"], "expected": 0 },
+  {
+    "input": [
+      "ALB5KDWj8yLZbVy906dbN4AFtqIWsKQrH6A8doZrS4srrpZfDKU34ypvIvJTXZUuaSRc1"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Zhug2QHlZW4LbxjvBpjD4jFuuSEYCTJCtVjhfwxnM6ZOFqtq4uV7Bb2nqRk9GS49Ylu7gShac6Ovtd9hFGb6YqJ7l66Ub"
+    ],
+    "expected": 0
+  },
+  { "input": ["wdtlqkQ0W3v9VJZ6ktL1t7rR5SMlu"], "expected": 0 },
+  {
+    "input": [
+      "2cltxbtI1ffe8NStRzyRWjJW0rxBGY1NwFaCSgywvUluvUwkeh9Qdq9uKvYOt3D0Ml00IgsgkYPk"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["mT3vZh1XbuepiZfifjHOtUsEXXZLSaZ0R6UCCbeF4CETSdZm9H"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "fQhDgVFRGJGkvYq3jT5A7KaZ9na5Mw4cj9JV0EHH6NY9Pc2Js9nGQc3rpJIM72BtBnEmycc4Nt2jVijs3OKWKn54gQMZVIaQD"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "IQPwKiGowYwjAsDllmUQV1qFP1E2VRSFfDTXafycqJYd45v9JM5e5HbMllfNqyY1Oj"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["IvK3k8rH9KJR6Xi3TNN5XDgHkLMrFCNiee6VcDkmrbW7yCYzT"],
+    "expected": 0
+  },
+  { "input": ["ia3ou6zbNlYOhd2PlrWB"], "expected": 0 },
+  { "input": ["Zrxh4RLMDbknYxhnIxyO06FG7NrO4OgstrgzxToPSCCrp"], "expected": 0 },
+  { "input": ["2XIzsttgH"], "expected": 0 },
+  { "input": ["lX5L8r1Mu87xxCv54hdN6dAvD5I0aZN26"], "expected": 0 },
+  {
+    "input": [
+      "dSyGRJdTyb6JHExM8GkadPdHh1w9QTVDuThtsaksYaAIitzPTiVmOAaAQ7lXV26ncKTxJJ0CIJurdE69yK"
+    ],
+    "expected": 0
+  },
+  { "input": ["Zm48rjxlQ2mnypCtERtgTf8Bh55UbqGiR4H"], "expected": 0 },
+  {
+    "input": [
+      "P6cDln4GcgM0i7zj7UolZkMFXtYvRHqUIkfl6jyhONh1vxUqs8jlfj91yLp8ZIYSdEIY0"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["fIMAn33PUJ7UyNCuj929rGEE94ndJHRc8NXnjk0q4OOqLDfBO2xT9bWNzitm"],
+    "expected": 0
+  },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "DcMpcuJloVHGkxka6R4c1z4oLcOgr2t43ncVskjoNg5FbOzsqf9QXnn2oefbGlihU4Nq4AP4Kd4cWilgGikaj"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "eJ0jNYUTS94zqswcZW4DcyqL34UJ3lJu48qlt9uQbgRHkptJqMIolNVp6OxsAASKbakCkAb1w80N3UO"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "6VYMTdvYK8gLuam7Jff9v74b3fQZIUFMbR8lytSHTPLVJVfBMYQXNmvMzkdsqz8xyRYEklq4hmhuvqjdry0KD5WqlVfeUkHchi7u"
+    ],
+    "expected": 0
+  },
+  { "input": ["rXkz2XKKyqLnD"], "expected": 0 },
+  {
+    "input": [
+      "Rc4ep2eKc52Xqd1xGLdsEQTHA5afmpaK4hXobpsCE4ynNGDDL0bR0okHlxuZTiirw5LveWGhraVIwOM8qAcudmnYlRmXU"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["61ZDGjkl59lfOvXm6aebkKZxEcauEUGovNz4aXnr1aRHkzbvWs7p2HWrU"],
+    "expected": 0
+  },
+  {
+    "input": ["gAX6eeNUHDsgaiXwnlAXK4GgpEjmmuwrQjO6Bm54hbJsIFc4stnc7NgmORp"],
+    "expected": 0
+  },
+  { "input": ["r9Eh5KebCF2gfP2bWwDiVEk"], "expected": 0 },
+  { "input": ["D5fiCPOYCn3hkBBngQfhgvcXc7g1"], "expected": 0 },
+  {
+    "input": [
+      "dR8GpschdcjDUqnyqutQmvbla0o9za1Q5KXRTQomaN3Aq5re5Se1bcscZG6oyW3gRhodCAxR1fPw"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["ssi3cAZoL9XjoJpG2CfJOEGUSVbHiJuJ64eeZXnQ5IRjJvO"],
+    "expected": 0
+  },
+  { "input": ["0ce6qVRYnucdQFu8Z2isM6316a46TeipcctRGmGI"], "expected": 0 },
+  { "input": ["tmWKMZQNsZ0QtksHGcYgVaUPwKo18pkJrfTuNAyr"], "expected": 0 },
+  { "input": ["AIFxvN1EVtDsx7KQ4aBnI"], "expected": 0 },
+  {
+    "input": [
+      "XYivY4wNL24CJbDhW6ss1CFrxRYKZW6u1fvndIlQPJn2SwfJRfj6SXOIJIHkDhQdP8hK2eYn37HmR4Bb8Gg0hdNQcp"
+    ],
+    "expected": 0
+  },
+  { "input": ["Pp0NjLv63cNVXmsHOA7GQdlUi"], "expected": 0 },
+  {
+    "input": ["HcoBzariqYeR13Zcbb1tR5eAJ23g2i3FVWuTrW4HOAojdMso8rVpeX"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "TBNz79YvYywopKdHUhCByIu2WOtUWQnqxMi7C9lsOjZ2sI6A8VdAHHr1ijpXSpCbmPQD11C2p52K"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["ln1sXvbohw5evYrJ1BMzzFUs0pAGs9Wli8X53tUdGsYMlrLCu7MndUQQwXo"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "PJ5BXqRw7cQAKSi1PdBuiXCFiQFunMVCJlGXaQw4brMztxqvjKMDeD6iqLmwWyhbduf9IhXxgFuQM"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["e0HlL0Df8PkYxJEtHdpZ03GOsRdNSVptT6Yr2gOVttamXRYNdsZa"],
+    "expected": 0
+  },
+  { "input": ["OryV"], "expected": 1 },
+  {
+    "input": [
+      "qofCxqoQhKFWRbOFpBTDvzyHQHrsOBiEySf6dCkQKfR1fwsjuILF5I0rAw54OdVrK1AVE2euDyUtOX8AJB4"
+    ],
+    "expected": 0
+  },
+  { "input": ["p4PEevBRG5I"], "expected": 1 },
+  { "input": ["s0uyIl25HsFNXkN4eCQ85FcDVZEBWOWf362qzrm"], "expected": 0 },
+  {
+    "input": ["dzuvkzTLSpbAQcBA7D4FqDNVtVcjrE12KTg3qg2L8yKXFEfsD01gdzoyRWkgXl"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "1Ttk9faDujJrcVBCpQzn4OUOxpVTXavGOarzvcT7s13a8qp0GVOjeItb5tmyLTEYezR8pwhMDa2c0IelhCyVeELeoKlNBAqarg8W"
+    ],
+    "expected": 0
+  },
+  { "input": ["YBvF7UsrHTmikaIpCc5h4KItd5wrx"], "expected": 0 },
+  {
+    "input": [
+      "8hqtW30NUqeYnKlvPVAfSMwKC3J3SYJtvacWCQxjEJcTRUNIwoumtCoIrvUVX6Ld5NezNQZMn4JgA1Xen9AdllHUfq2nlr8"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["fH6xcfaVeXMc9ceEcPoQAral41CLmjpzWevpzUwGsfJZlHwY"],
+    "expected": 0
+  },
+  { "input": ["1BCBo5O0ureRnRYIx0pNzaydNN12"], "expected": 0 },
+  { "input": ["et"], "expected": 1 },
+  {
+    "input": [
+      "DLW6AeWyhGxB2JeSp9APUCsiSnlvPgsbf1ZiNcWSq19ZDd1dBiHm4dLmCrizgl6Ci0qqrys4B1bpHWda2gW2uDM6W"
+    ],
+    "expected": 0
+  },
+  { "input": ["nPnkh4AwSYBQCaLjrnz4ArJUzMaAkgYjexCRqqmC"], "expected": 0 },
+  { "input": ["YUNHKW5KFuq08zDcHTeIBaCV9DXhF8UtkaY1QK"], "expected": 0 },
+  { "input": ["c2Zpny7YY45"], "expected": 0 },
+  {
+    "input": [
+      "2sGtMu3ODMoyHloEsUqWrPkeJvOZY8kpS9dEsancr9Jz9v3L2GkS7ZUd8fh8aosiBn126UbP9a1"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "tTA5rLs3ksirSnpo8I8fWMVwFsAQvjHomZpqA2fpLgzLuGjYwOEyXP9SFtZgmZYXu7Wa1WgbiAC1YmmRb"
+    ],
+    "expected": 0
+  },
+  { "input": ["YqW72FZNDt7v0HAmGlFETdi"], "expected": 0 },
+  { "input": ["XilC0fOOLpwZC7mnAHfjGGgudgRyf708"], "expected": 0 },
+  {
+    "input": [
+      "4DKCELuli7pUYHeAX78gRHZRr3i9AXc1yzBtuizgEXem4OBIz4cUQAUGmkcwh5lhKROgk3iHfosmm"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "7gWj75bsmeBMKlfs3CvDFR3KF4rfdK2IYU5aeklyvg1zMnApkGsMHXjSrXoU2wnOZwjKAI46gKm5Qr9mfQnjD"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["QaqvhfWCFxKpsff2fLV8p1CfdBiscSyLXcpV87LwnrZvQe8xzFlr30"],
+    "expected": 0
+  },
+  { "input": ["thZYeZRoHbhzIo9aLhNqqfE7b"], "expected": 0 },
+  { "input": ["x8NEYYtwBiKTvf5HaJpPIGa53kOWZdDRyy8"], "expected": 0 },
+  {
+    "input": [
+      "HJabqcBULmGKJ86DM9z0utAJYKgMjXtQHdfsEqFL7JNxGuMUBEx9pRP8gcPrt5n4cV6pNectaJuyc"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "jbRBX7KPZ0DZaMSV69mgH3X1IppBPRTyDlrNeSgWk7tWdVyUsIYDt9nOtGWutcP688mJxX7VAVNaFCin1kfeQZj8e8htHpgFqtse"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["es0W3TcFRlbbRqs26LbqNPqzX9qlgf4aWRvvsOLMrZqLMN"],
+    "expected": 0
+  },
+  { "input": ["2eAWuUJcxztU8"], "expected": 0 },
+  {
+    "input": [
+      "3Z3XG35S87pVlDvt2y56cdlSbGnhdlFrR7CgXuYDzalxVNNviiyVQznuyCGVio7qyWDVuTT4R7w"
+    ],
+    "expected": 0
+  },
+  { "input": ["HAJEg87jTUHyBhUDPyMvWiY1VakMKBoVz4a6TlvcLUyTR"], "expected": 0 },
+  { "input": ["EAun9cf0m3464w0RlHtLQf5onF9w"], "expected": 0 },
+  { "input": ["cyEJmKvow"], "expected": 1 },
+  {
+    "input": [
+      "MPrilQGAj2blSXodOfJTtvF2TEhzyixY5jWFCz0a2jJedpubhdPBsxuiik8DAkp57LEwE4T22Io1bLFQXC7ZHCvmwigJ"
+    ],
+    "expected": 0
+  },
+  { "input": ["WGzKpad7AJusCCX3kSI09lzkjD"], "expected": 0 },
+  { "input": ["DAWQ15RCtxm7ntACHJeMktMCo5a"], "expected": 0 },
+  {
+    "input": ["ZfS0c2LJs2F8AKoXur29n6marqwRnEmfP0yHhc32RmDbc2ysTxa"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "dnl1ot4yuhzYBQckh8wqX1Ig2bLy5qKZb6RYDsEbgrfMr0wct5rRQO8yryXFhWc5pJ1booDOKc"
+    ],
+    "expected": 0
+  },
+  { "input": ["S5sbAWg"], "expected": 1 },
+  {
+    "input": [
+      "FLImxVc7ACxoQBFSC8z8dmuIo6rsu8dpHvL8ZkLKA3xlijeccdpDhkfWAtEgqsPZGEyVP"
+    ],
+    "expected": 0
+  },
+  { "input": ["DqdFRexHGmpljjhTU6O1LPn"], "expected": 0 },
+  {
+    "input": [
+      "xUXWBXZoRpQUTZHXlfYx4cEi2LXHhMxbMBVUtrmsB8ob3s0SkhtG6AfUqI6YONT"
+    ],
+    "expected": 0
+  },
+  { "input": ["lXseDM0AwfwD10NMP"], "expected": 0 },
+  { "input": ["rFEsn8kHROlouCREvWJxX8wg5blUQ"], "expected": 0 },
+  { "input": ["43wbfVlSpY"], "expected": 1 },
+  { "input": ["017WTvpjFPr9moZvTFWfR9gliIaGcVg9pXzxMtsIChb9h"], "expected": 0 },
+  { "input": ["1Ziwl23"], "expected": 1 },
+  {
+    "input": ["zYZpN5qBXSjlZGfPKGlQF3EFL5JB3xWRkjKfXMA4r1uAyASbAokY"],
+    "expected": 0
+  },
+  {
+    "input": ["zNDJDYLLW0z4pNqJSmlx8UfOIsUrXSTew75u0iObb5vCsR1vdW7Ps"],
+    "expected": 0
+  },
+  {
+    "input": ["g2pyVjZKdHyFEYLoA85UX4kFx2lrPrVse4spfoB2dmIBuYYTBjrUv7ptW"],
+    "expected": 0
+  },
+  { "input": ["4znQuzSfP6XKjGRsMHe8ElR1L00LQsoJxFQBLPI4pPB"], "expected": 0 },
+  { "input": ["1W8xPnhBbY9JVZ"], "expected": 1 },
+  {
+    "input": [
+      "6jzDk2pG3LXOQifJuE0ei3Dy2p42nEStjygcnt0eB9gCl4E3ELjAXLqsrd3AtfbrRTSdDwG0Z7QgyeQ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["vENIPA9t3OSs0LsZU4pmwfJVvqqTJIF4HpI2JwgCk8bd5T9wcZaL"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "WgeZAGYNz5nSNpDbuzmAaa7Kyq58VGQa7uR7zZu57YV9DODMQPXeFF9Wgm9DRZdCGPgQcljxLPKS38MeftVrmh8PQJG0M"
+    ],
+    "expected": 0
+  },
+  { "input": ["nJOyHBJ4cYx"], "expected": 0 },
+  { "input": ["LHat"], "expected": 1 },
+  {
+    "input": [
+      "CKGdTE8Y0RZ22CswFU1nszaEXD8FFHqYUsWASw0bw3LGh4AYBRJNh9whU29Pcf7hyvBb5bSpEsPN"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "KPxMyOY2cuPVwDUK1057YNMlqlyPBlYb5SbRwjiV1tVDyoKvuBnJLBdEZDPhHUOh"
+    ],
+    "expected": 0
+  },
+  { "input": ["8FthAyI1NDF9I4FajGn2gpSga8q2SuICaSI"], "expected": 0 },
+  {
+    "input": [
+      "mpqDdn3F1qsW1X7XlygEC8O3HbVc2J9rQB7t6IdZ5r9vEnEsDnHCj866FxdcKYPL2ienP9QyyzGOSthNgoDh38QdcdLb"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "73sN9ZiabJtHU9hHHjloSGC4qVK9bPLHMRHDbEZzi9hBR44N8ryuL8GfhmNqhRDUXjtAOM7YLlzxp"
+    ],
+    "expected": 0
+  },
+  { "input": ["sK"], "expected": 1 },
+  { "input": ["68zjvp4qFEZxXH1pfszbewG3W3Dim2hPLHd"], "expected": 0 },
+  {
+    "input": ["cVcTcegV3M31948zUaMoNMFCsDuWvGnh8avcOhGhit9Rh5qxu39s45nXc2S7"],
+    "expected": 0
+  },
+  {
+    "input": ["Ufs7ViKW3CP2PnCuyQ2HhdxN7S7YT7wZlwi0PAS7U6qiH3WDn"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "c7ZU9DX45xJOrjlWctV1HZClVdiMkeQ6MgEQ1wuBGpwD6xPccQabdJ8GSlesnseJzXvABQJH9QW1ZKV5MY7"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["Xph2sos3cIVNXcVnjythONX61JV1bUfLs8rlDbFoejmvuyubqWTdmbHX"],
+    "expected": 0
+  },
+  { "input": ["0a2u69dXj27GMxVWUFNGtApk2JlzdPUY1qPrzoGakxiKq"], "expected": 0 },
+  { "input": ["07ylD4WRMTC0ijDEDx2MK4dtMvVxpJlcqqhXUR"], "expected": 0 },
+  {
+    "input": ["fG4NRe5PEHRUKifPJCXBFcBBgO6wXSokiSJwIRIKLInneGnSxS"],
+    "expected": 0
+  },
+  { "input": ["e9coL8hsTz4khg8rB"], "expected": 0 },
+  {
+    "input": [
+      "iuNoK7Q2mAU4fnMItbXRmn8lSkig8CThgjXpaVGEvUGZrPJbUA7czpSvMeXqT5tkhdq37pVI5S"
+    ],
+    "expected": 0
+  },
+  { "input": ["w29wanjp3BAniMO7JhvueUaO1osGsVq"], "expected": 0 },
+  { "input": ["1GX7Bza2L9cWGX0EuVu70c"], "expected": 0 },
+  { "input": ["gjCGVN"], "expected": 1 },
+  {
+    "input": [
+      "myV8ITPj5qwzdDrT0wmo3HcgQRE9EToN4cXuKfNwhxn3apDJYtutrU6RIKK6NuL4Elzd9tkow1OhG2"
+    ],
+    "expected": 0
+  },
+  { "input": ["i"], "expected": 1 },
+  { "input": ["iWkHcsYaBasFc5uSgdRQz3S"], "expected": 0 },
+  { "input": ["x6LtOvcZSI45aCYSa2XWgIPQsYTo9GmbF1SRj7or3vG"], "expected": 0 },
+  { "input": ["1CO6L"], "expected": 1 },
+  { "input": ["2UyA2nvwTpyqhS"], "expected": 0 },
+  { "input": ["Wuw8f31O1QxjyF5uNI0C8II9CGs3Fs78MVpfdiiObNJR"], "expected": 0 },
+  {
+    "input": [
+      "lotUuWOpNhEuNXsjEb1jfc4u0hX9L6dhU9jpXSSFLr2fC6MpxBXLHLJUiC1AIvog2NS5qHlGtnklYaxgwNEEojLkuEr2VhVUYhd"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "NVb5PKojDGdKzZqPBOrrcIfQlzGjafzXoYhDMhFC5YM5VEX3bROamoN1pmZTgwBZk3LG2a4UKZ"
+    ],
+    "expected": 0
+  },
+  { "input": ["ygIOomC9WpQZyaBVnB6rnsQ7KutPLDMJI6ZjXt"], "expected": 0 },
+  {
+    "input": [
+      "VXx6CHurMujGIjESfX4XufhPYwdsWkjzj7217Ub8jCYV87h6UQiUv9ijKrMeFARPz7oH1K2KJI"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "sZvNM4vRMXSvJoEH3QBK3S6GgfUjirXd07qyedhpZXfIMaFSQZyZF2EKRvhb7X60h1FTS3nTttJrAlalNxrPVCEn5aPPVphYo"
+    ],
+    "expected": 0
+  },
+  { "input": ["NkKOcwe0wttQoqD54lrLhLwAct"], "expected": 0 },
+  {
+    "input": ["V4X0cAO31g7sNup3y1W5ewhBP5c9fmXB06adUjawGOqwc9aijInd"],
+    "expected": 0
+  },
+  {
+    "input": ["8pLyi4HDcz3GYPr9LGZxfuz5f2ktFYBBImbvrcmT3EYCyd"],
+    "expected": 0
+  },
+  {
+    "input": ["3ir2KVAwQGTCXR2PL5jD4jbDSHRfHFOpVm79wW6H3hkNBg5"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "gMHA9CrtSd5cKklrcHPnUw7Tp4TnrYsX1nOuc4ZQlTRqvfN8OManT3Uq9p2ESAX96NbvWwCLYzuULbLSeg"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "yFTw2JFSt5ow0mk1fhmtgmjOg1TEOC7NI6f5It0biVCPJ3kvoEUE9E4EsjHclhKXgCbL5qy8BQ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["ioZiXNDabAN1zVOXu5c1VP4CsTRNtDXA45gNEhxtMUBjRRJPt9XK9dyRAk"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "AtkTfHxQcmOlDG141aFxrStMu1cN9uejiZTfyZxyZewklL4211X3Ly7weMxmgHVOSRqzP7Xeg6q"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "4i3V8B16yHi5nSzRnVFjmfbJLuHKjIOnABqNONbPm5AfAxRmT1YvlTWHvNe0ii077nBhMh0ZFl0H8M2tfAIISazX4"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "TCvxDhcAjdL42R3wFMsI7wUi7FlSRbr83iKiDuzHFd9ZIKS8k2vwA0rsSj4yP7ZkYe9LSVvi4Tm"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["HTZfg1QgJMoO5zpgOpvC2Fr2dWIffyzeKP13fEUtWuV0O6Xf61wPWbZ6YhfP"],
+    "expected": 0
+  },
+  {
+    "input": ["3mzwrj8MwPmhuzIyvwJWq7kQnCdodcTcPmFCbnSx1WpNw7olN"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "KxFnZxvNEcHOmiDgdNxHWZYdI0BGD3UklwxOgkplj4x0d9iKxaUx0qxXXgRXh6zzYZ8UymgxTXfJojObzyZCnxFd9UJ9"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["PGU472IKGN95kV0oRTsU7I2GQF7iaiCKjVfSQDLDZaGCRTujl9nf5y68QOA"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "dVD31P5qKLqjxDn01sTNwMFSZ3WJo7rd97GRkTFSI1jJdxILdoLSAYDnyQHIBwMvCTUOyILIntdcXt56QkXnFlkA5V2QDr"
+    ],
+    "expected": 0
+  },
+  { "input": ["bnW8iMI"], "expected": 1 },
+  {
+    "input": [
+      "FKNjbof4iGWSje3DAPs8ZT5IguDGJSjZXBv9ULswUnUo04BRHGhNsMzptZqQUrECNs8w7"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["l91t3bpFFUN6TfM1nMPMwMdiedQ87xvELLsfzq9sHUdE5dArsLSPACS4p"],
+    "expected": 0
+  },
+  { "input": ["0PH9sZX3RVUk8mERl7H1cAXGxylHVYCryxF2c0g"], "expected": 0 },
+  { "input": ["BDxZhW1yFAkjF5qisj5iU"], "expected": 0 },
+  {
+    "input": [
+      "sOueOr5ctHi2w0Yzr5rcy7iqSzBRmJnYlaKOPkusbGsOy77IYKxHnDMhSXLYCj5eVxfL3FMVTiPF"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "HetlbCDBXCOWKCc0n5zADixkNYLArSN10PnmPkdFTYqcSKZJNGSB2IqArna8UzfTYRKEA046uUE"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "KwjiYF7cWUFONYrZy7MdQXIWFVo8lfpak6BfOmN3QNPU6wtSVWOYP6T4tgOwvsAO5ogZUan"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "m8TouUq7AnqU9nq2XEwPQuQFsFcMXRD1mS1YbIySm1BjbznMA6S4KGUPUUsDZDMfztaWzCKpGOdFHoGvoRC0nrmpTP"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "uRPTk7jEzk8CqVGbcCVdmj2sAlSavcDvJXhpsCkNbr0ggsvIjjsgeUsag2fZDK51ox3wv0xXbU0URv9MFNhaNv0wn"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ayATG4VhjkfrmbWrUbG46FDcL5yjeQSSJzIMBRADBpiMSNrQYQDsiYaiGhPxNxBdFPohroZWnuuUJHtIk3jYG6"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Jw8Kg6pBQQ539CiYrOb4nAkEN8TtbgqQxVAJ7GqSfXNgDAVyFgK4yiDUpiPxZkDQrjEEETXQJei7IGbHyTkBBbm"
+    ],
+    "expected": 0
+  },
+  { "input": ["0jFQ3vrKs6CFn9J"], "expected": 0 },
+  {
+    "input": [
+      "nGwwoJvXTFAIH2ndSlYZl8AnjTj0Sq87Em1ae8e72vzwSJVsBcQmMsLEtrM09Ge5yHQmBwjoZk3fb8T"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "UIP9Uvuu0Lk4bqnQtEfa5hB7JU3ac51iUEf8r8MCU5D1tZtg0NrsmTAAabibCKjFlNtiRdOCoZhKD7KixbG83st"
+    ],
+    "expected": 0
+  },
+  { "input": ["EswYBd7"], "expected": 1 },
+  { "input": ["NVRlOewdhSx"], "expected": 1 },
+  { "input": ["uAPdCIF9O0en"], "expected": 1 },
+  { "input": ["t533qbkfphvKdpju8KYD1ga3da"], "expected": 0 },
+  {
+    "input": [
+      "BCQDdCbqzeHUoeRuazEa4FGcbQtkSNnnBs4IDq2zdtFdbZNQITkrqxMpTWRPz12xyGMR1gpN81XJtF7mS"
+    ],
+    "expected": 0
+  },
+  { "input": ["WdQ"], "expected": 1 },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "7MZaK07gysUTnW7Qoul9o5npNSzKfTFlhEvFMEBO6Q3c1ftCWrpYBqdR8bt0rKkDFfSS90ewwcvu3"
+    ],
+    "expected": 0
+  },
+  { "input": ["MqlJwcSRsaFMDjkgtdvaHhOATRLwA5rm8Vj"], "expected": 0 },
+  {
+    "input": ["AozaiF8BgnPlManRpCf2OKu3LxHAxJma9gw9eeeIeEhj5ds3pU5FiYe4F0NzG"],
+    "expected": 0
+  },
+  { "input": ["aTxNYAhQNIYezUs1ZxddSo2jDAwy9"], "expected": 0 },
+  {
+    "input": [
+      "lZbupibXoATVKMOA6rNxUHIML49cIECfEIgkOcRnM9pT2Arnrs2d7jP6dFZj9h61xEIEJ6uU"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["ATiIoCxm2Ctnnu5ftI53jCMSuPh1t6TyNEWfKd9xPDkquTtKqaP2ZcDjQpkvEF"],
+    "expected": 0
+  },
+  { "input": ["0"], "expected": 1 },
+  {
+    "input": [
+      "zzRv2urJFgdzvVntJKqjfT1oQoJ2ItJN2xva1bB87cZxg05nynx4hRve7yfbAArx6ft5X7p6Q0lzndaD16oLL"
+    ],
+    "expected": 0
+  },
+  { "input": ["nObftlay2Fxr5EMDdwitnrlAgHwUzcaKXZ"], "expected": 0 },
+  {
+    "input": [
+      "r6sJnKOn9UuDKcQC8jkZwhhWv55Ef3OI2cRDlyE0ZCEaDJd8GQ8sXG7w3GqWeMOm1MZTa"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "J0AgOnni6CLuuxgGiCUgm4NR17q5iKBFSqYwNWQP5j7LWLn38iEcgqM45Xx3g0LLREYg3J"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["vvqVx1bQiXOevCpSNZsdKMHR3N7efT3mHgx3kWB42xsKHf"],
+    "expected": 0
+  },
+  { "input": ["cp3JlLM0UgEpnAdBZ522rbmkaZ3vxU1FO28ZRC"], "expected": 0 },
+  {
+    "input": [
+      "r0qkT0Hddl1hYWbhETu2Ao1Hro8Pqoe8kSaqxXO8rm5H8jv0AkuXWgRamSXh6CydVk61z7pC2foNhsxwQWKcOxGhxOriXN8n"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["wY0jDJ9I0gS4zj4BBTixBQ6rpVEXM6Bg6Yo38UDrgKc5r9jF0U58bAjA1yOL"],
+    "expected": 0
+  },
+  {
+    "input": ["0tgiQuXECQPnvWeSgtEzYQNOmbR2J5HL6vF47PqXkeXCn3Y5lR"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "bURTa7ZWvaN2NYITeR5IkTvOiwaqHZE4HYa70hmTX5Vr51DYQI0cGIeI8HCoT8PSx7ct86SuRPVBw8uLqWa"
+    ],
+    "expected": 0
+  },
+  { "input": ["vlxn3pMLgwKC2Tm"], "expected": 1 },
+  {
+    "input": [
+      "EEyjRbziK6yaBhRZ6OJ4LIF8T2VZrbpiu6ZqI1mZLuaM0Jj4YULaqF09ddaPgj9laa"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["Lq0exBs5LZspGqFKRCB10jqWao0sM4GOY5GcJ3KgD2LuJwhMw"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "BamtBFbD0BU9IWXDcAUAWNjJxCfoSYDYYwbCg5YD4uMpA8cSgsZsclpKeXreTHt"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ryUUxZ5STYxGqIxaL1cu0caKVrf1DrGjf7Tv9fazC0X5P6iVt9rtay6eozptolgV4rGc4Xuq4awmzulWzfEXNhJgcU"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Gj6dlY69f2A5Da7L5F90JjItgVNMuyLHybc02h6IGOBVU26tIrZJVAH1ShWYQ9sofvA0kNPyteBdGz3bKdW9r1kg51eEG"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "qsnRbDmIlHMlfN5MSB44KYXpWRpa2mY11L9F7ClQzypzecB0L6MlVL9C2Gk0EF59y5pDtyTKQrUDUFR378WP5MC7mZrRLqSwiH"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["RzKJcRGLsBj1zUsyXO9SM67DnjUgvM8sZkOvF699Q2YjBFj9oqrY11j4"],
+    "expected": 0
+  },
+  { "input": ["EmEV9U01Pv"], "expected": 0 },
+  {
+    "input": ["76OCwwbFa6azlKeFf7aYI1K9iiiWQ2YZyqYQ8MFGNUa5aQSgMwEqcEF7Bmc"],
+    "expected": 0
+  },
+  { "input": ["kbS7LdoZCKf2OR6Up"], "expected": 1 },
+  { "input": ["zsTIpxX4fy1IsV8CbM9Qvrjmm9WVUYdeAw5C"], "expected": 0 },
+  {
+    "input": ["ZfpXRFvETTgpmDVn0m9dW8BGyTBWBi7hUr0LWEXgIqwEef"],
+    "expected": 0
+  },
+  { "input": ["AJP5KN0j2xcWHXa3QqGPFbgLQqAf3FSEkuj1"], "expected": 0 },
+  {
+    "input": [
+      "EhbYQMIhHJjPqMEw2PUvoLYW9nFFAs986kSQNRbduHY41sUmyn96cPmpwUPKr23k4ZEw0L5RZzDhBnBTdW"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "BiU7tAULebnbWoZCDIccdDGCanHZsqpPYVsf3j1wI7Dl1fuzk4OrxIURiuQ6wuD9KIX5"
+    ],
+    "expected": 0
+  },
+  { "input": ["SMy9e8ovIbQAsaCkjWh5bGcaq6"], "expected": 0 },
+  { "input": ["Sf9Yn3R3HI1mronuOWAnQ38aXhkQFsHYHe3YZHElr"], "expected": 0 },
+  { "input": ["7Np2JUjG9oiVKy6SnfQ6XqX8RdH53R9GTk9qRH"], "expected": 0 },
+  {
+    "input": ["v7FbwkMWRFaH7txkMEWgyy7JtRox8xWunglDDGVyXZSEO6QU8ueGKOT"],
+    "expected": 0
+  },
+  { "input": ["GslXR"], "expected": 1 },
+  { "input": ["E5NZaVcCfTCuchOND9bk"], "expected": 0 },
+  {
+    "input": [
+      "De7ZZR4aFOhM0UrOdXStFlRj1fKMsd35m17PtGFrPnv0vb2CZXqDpEz3UzCodHfgu2ykCbwsqpE23"
+    ],
+    "expected": 0
+  },
+  { "input": ["DQo5NZr3nSHdGMOYDssidh7fjOk9GL0ead1XX0U9"], "expected": 0 },
+  {
+    "input": [
+      "paPz6Wj6agtoKt8ItKE2dO2uvCGX1W09qDupd3NAVZmaufViOepI03XCNGt6bf0UYFZq4QKKTbt3hvIMViUC9eDF2"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["TFLVmQcdUFFCohzQ13p1Dak72DX6HSSkVuu0ml9IOLkmYC6uuQoF1tM"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "CGVqeeYDBAVZaAGkRAcEohrr0eWUVXwhdwbXFMNgsJdArPjMstP3EzSccRsBJYhKY5c7znJ2YZE6eeR6mT2u4zIWRzNwngiGVO"
+    ],
+    "expected": 0
+  },
+  { "input": ["GwUrM9bhNHxQocdSDuVnQ10ohPj"], "expected": 0 },
+  {
+    "input": [
+      "TaIxl6es6ayH8TVEnONb71qcG7b3Mz1zp35JyNtibxdxieamYL1d8Ndb9DFBWAtJ1U1ZW37uq8R4WNYSx"
+    ],
+    "expected": 0
+  },
+  { "input": ["uZtifRPk6WRBtVDqfGRNOtg0qMiQrKDtZLExwqVTSIBYS"], "expected": 0 },
+  {
+    "input": [
+      "YDrygaenUfIw4s8p7kHHiqA098yfMkP0vo0DhpMGGceyKJ3rXpIlqsAJdzPcstH8I6NAcKyg3yD1vQi9MUe66dZhX5fN5"
+    ],
+    "expected": 0
+  },
+  { "input": ["eK3edh4FYnQWOpmptPv9f3ysEgORwS9Dxwnrn7x2n2"], "expected": 0 },
+  { "input": ["1W"], "expected": 1 },
+  { "input": ["bQhilcuU5wKayfzwNPiUC2YYL7zkIMISVZzoqkNi5D6ik"], "expected": 0 },
+  {
+    "input": [
+      "EewKAFUEsc6RVOwrObFaIMY3Xt1zXUr3GhLnDF3KyyVU26xDuXTHFVWeuMPKiTxYDCWo0BTw1gC1gXC"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "tJdX6LOnvtO9eRwG8C2bUfZ3lnYt41j8xjJKy7Kj2mTgw1wCYOGl52TJKvo187LjyPxjc8SeXgNgTKPcTwcTOc2Q"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["jqi1vsvcGHm6icErWGzgL4OFDZrbsfPx8VJRIRWvb6QsyCgKScIaZkUPkT7u"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "qwcEcYmUyThfR1lxLr6AM8qvbTT4QoMEXudvxkAUlAlEAniUCvX83BLe7Ia3MdWQDOZpw"
+    ],
+    "expected": 0
+  },
+  { "input": ["6ck"], "expected": 1 },
+  { "input": ["AfhjGIwQTwLUjFmP1Ex7QJ9HtRos97CcL"], "expected": 0 },
+  {
+    "input": ["ov9vY5bExx08uTdX1RUm5k2KtCl8KUhDn8RLn91HSvejTR4jmMiTLT7bl1RmGj"],
+    "expected": 0
+  },
+  { "input": ["Zux6glcjI92um5Bt42o7aLsYkDb4A4vE4Ti"], "expected": 0 },
+  { "input": ["0vp32YOv6J76CqSilhP20fja5hlAZmp9Yt"], "expected": 0 },
+  {
+    "input": ["mN4q2NslUDsIvvGYrgJfkNBmHikPXF5ZGeJyjS6LSH7E4kMra1Tx9f7tQR"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "R2P7pLAZ6P9BubsaXh7tHmpocWtfEQEXA5u2kEjxgft0pJ5Lc9MEy0Ffe0N6zl12vxS8EBKsqA7GNcMX6GDqcS0FNj"
+    ],
+    "expected": 0
+  },
+  { "input": ["DdCOo3I420UVFwjkY3u"], "expected": 0 },
+  { "input": ["B"], "expected": 1 },
+  {
+    "input": [
+      "VdCPnCAaES7Fa7mRqYCvLHZv2NDw4DAuWUZdpTTtBhmKaCbZPdy2Vs0fRsVPvDJyOpsG5iwuXDRsEgMwnAXzwCGU8wxBvwzSxvE"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["qhwvKVpBDPaDZEkGp5YoBCXBXqp131IlbT9UEOyn7I2fX9mySDcSYs"],
+    "expected": 0
+  },
+  {
+    "input": ["9uU8Opgm5HhX0b8RqQz4gMh3XYAXPNKFOQvINrrl45ROBGpDT1buV"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "R4B0SaeYnrRIw0Uhwh3YS4OSIfZ5L5s8xsPNo9cEE3yv8goEvU67RNFcglfIdAGHdxdGRtnCpY9GOV7MNha3ComgLcpAm"
+    ],
+    "expected": 0
+  },
+  { "input": ["M9D9Lr2uXRtAt4WyLWncPQpEM4V91RUMVCeujbw"], "expected": 0 },
+  { "input": ["lC3ILV7dqej4ejBRVHUARyeT2wIhrEsDBj"], "expected": 0 },
+  {
+    "input": [
+      "epZfJdj372N6USP0AREJWy0jne5mVVM7dI1GDglxKy50jHV99bRyT2rfJSfEUHgpS5bX92kPHu48lwcdXO"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "2rxJCTlm4zWVvWsS6OrtOdkou9SWdEAqkEKFhEBo8dgBj6m4IMFALcRWjpbmM5axq5D5gdr"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["8N8JnNflkGP6SKqnY7YuwBChzn9982AFsCjvhC5Cj6TYO6AKgVoxTRX6u5a"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "QkUTyOiCJogkxxKGfMI5f6fFTS6Y3E6VrMcWbo8D4q86qlqZQ5Y1XVQq7z1YNnS"
+    ],
+    "expected": 0
+  },
+  { "input": ["Y2aNLttiSvHmbwZNJX9qqhwp2GOFXOs7K4"], "expected": 0 },
+  {
+    "input": [
+      "ew40rWFvMO3XyNeuK7pPbk2FnkxOniz43EnwKDuuZA44ZABBcU8COcB3Bqx59QoDKo0meDy30T"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["7gdvE4HGlAJBvls3oCtDoZGrIqH494LuBS7bnAOOj5ylykKmrDi8hEQ2zx"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "CnvcSzsFUC0V1fB55amkNUyzDGcNKkOshhMRZmeAKXRCPZo88XcvfhH5DnFCzr7VrhAxZtLEecJscVIvD1iX5mbHd2XHm3WpHGvs"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "lu0OS2fOGry3jM8CisjamjEK9YFlnLjf2tciQTjW7TIpJud0tl9lrHufUKhOzL0wnPUU7h4dYg4cM3uqWai"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "GH8Itym4expyChy8vSdy1bUcJQYCvcmaP4nheECSFjdhz1yaLB4VNEkiV7eMqZCZboOn5O04fvdbAq5"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "JQZ6cFrRkDKBBbvAqGvt7vEITqadX1rNUMF96QikyY7BFp4tsa3QZLzl9UJKiY9CEAljzC4HquQIE5dz6Ibaj7Pi7aP2L2Fwz"
+    ],
+    "expected": 0
+  },
+  { "input": ["yBkOgqB"], "expected": 0 },
+  {
+    "input": [
+      "24nAByXWu57VG3wm64rPUC7aI6PHBVT6uu6iaVEkDdCgKdXRE4kiKV42N9s9BOCHduEHSUDDOnk72T"
+    ],
+    "expected": 0
+  },
+  { "input": ["bx"], "expected": 1 },
+  {
+    "input": ["TfarLCKxaIZdHLmlWOCeGGZWGe8zpw0wDincVwNyc9USM3LgYEAu1DZoTZ6Q"],
+    "expected": 0
+  },
+  { "input": ["xP4wchYIA5pcPX1C4SOEkhA1Z16gbMzuQj2HkMs"], "expected": 0 },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "RZCYq3Hl4GrSCNG8MNOcHGzn4C9J8qrXwRZXeaGoo3BYcIdVfEdjQSlAAUd0oqaHXRWxZ9zOuFfE6z3KmAMTtLHpGqK6tA"
+    ],
+    "expected": 0
+  },
+  { "input": ["4eNUcAs6NOeU5RgPCn0wOzUmoBT1bYB8zqWc"], "expected": 0 },
+  { "input": ["tCJNMSsD5TFF1mUNNIZyl4nt9ClRcFDlwrbF723yCoUL"], "expected": 0 },
+  { "input": ["x4pRdsJhwMaVhRJzMJaFXjP"], "expected": 0 },
+  { "input": ["pbcb2j3hnGRsNIUKcOz"], "expected": 0 },
+  {
+    "input": [
+      "gyHSZwhqXUdFtwQSfb3Mmx2XKFsFb7Vph0Tgppa3p3am2QkEQ4hdwQvbS3lIjnzhpSLxU8hQduLsRnHhIp8o5DpWssDWy1oQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["sDNHZdLAWmGEeqCQIEkc0QCV3cz"], "expected": 0 },
+  { "input": ["MTGI"], "expected": 1 },
+  { "input": ["pHDoPdYpGvOOTkPF8lS"], "expected": 0 },
+  { "input": ["WdZ64mUsaHUq8J5xl7Lar7"], "expected": 0 },
+  { "input": ["kEVgkevj"], "expected": 0 },
+  { "input": ["T9G3fG6elu3VCUf18mL86"], "expected": 0 },
+  {
+    "input": [
+      "tsGIucruzywQETPQS8kALWbrZyiy7rmMCMK9pr9Edt2qBzt8IueNDcAIicIkQZwCCeIEp0T9WjS6NeRd"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "acnD579ywNiyxOs8kSQTbhJPnkOTkuz6n0CK4nkzwTXDk9sTvU9NCSyHsuwwnEls1Dhk"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "dmCHBOyg3mBtb5u4tMP8kA5ZPZnSAxcYceEgCnsFAVerlRIQ9gvduPjeknZ4xSiFa4Syfe052AKe6N039XX2IuNe2mvhQuWjNUti"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "xcz8MSqyhjl7NBruC0CPa39MYRr0vHPwOTSoSWb8X9Oed8pS6sExo9tfdHtCqeXaLL022k7Rn25ijzMTQerKmW0b8qkL"
+    ],
+    "expected": 0
+  },
+  { "input": ["aJ9gzHexSV74AJVMLl5cA"], "expected": 0 },
+  {
+    "input": [
+      "yUUeAczLHfrwJyHlYdv9lj08l77oZlkjlPObSjy3vM4ts1r1o0W2mHZgQfFVMUXE3qZVjUrnjjASQYKstxmMYQMlncOMtaEy8HM"
+    ],
+    "expected": 0
+  },
+  { "input": ["QMADL6edFs1uoHrPFgSWFJ25UJng6cVMIp"], "expected": 0 },
+  {
+    "input": [
+      "82TpmYejfLPEwYCT8ZrnexnRvV1nHBpRJskqMCq9P5fc9MVY23m82WfXtAlfHc3I5tcPAaajzO"
+    ],
+    "expected": 0
+  },
+  { "input": ["0OqIv"], "expected": 1 },
+  { "input": ["R33Bbj0RpV"], "expected": 0 },
+  { "input": ["IK2LrC7ZbeIOxSTwWVBQbwJLG"], "expected": 0 },
+  {
+    "input": [
+      "9oJtjeaHvT4rOXsJdrLG9hwqlJ3HpBgVAA5mB4O7ZOeJkpzlIOhzThmR6WUnftuMWS1UDDlRcXMFPulr4f2jM1WPquuL9pJ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["IEyvkhuQ1I4YrVcpsmfTY3oBtHFPKYyOgGYUMPjspS5rCVeX3"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "z6bWMVu4P0APxuRD0CvcfFwwvpACwPRqMFcLDeuueuTUU8DbSSwsN7vSca4tQSbqtqDRC"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["DWthl88k1L5mksEtJtG6z5WVH3oQJg0TQYq0XhX2Y6eNomiLoFidx3KehH"],
+    "expected": 0
+  },
+  { "input": ["9oBVvVKWfYn"], "expected": 0 },
+  {
+    "input": [
+      "RuWymsxhLRguQDGzuvLyUzW8ZPIDs85WsJWkI7gQRyQID3G3YUS3IyU0E0MBKsI9599FQpvCPzWTRUIPJTvy3zg"
+    ],
+    "expected": 0
+  },
+  { "input": ["9VafAE4zg1rPwpYltlQttPH9E6hp3fSUP"], "expected": 0 },
+  { "input": ["rxUSlimCEl810i2HXOaYXwj"], "expected": 0 },
+  {
+    "input": [
+      "o8d7j7ncB6XXvPBPATVieSi3yVATclE5LHk1AmScx4KYHiHbiseHgdEtNsxyxl9hl2oAHQScMdBG2sa5YzLpEEiw2DMJSKbEtl"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "MgF6oe82OP8RlxG7L2RqGB9pBzI3VL67qa7ikIGgLzMVz3e38Wvc4R6ZE3NpDgJY"
+    ],
+    "expected": 0
+  },
+  { "input": ["l4uT5rbVHJNXSdMN1g5dQvgnzg4VfyI3r"], "expected": 0 },
+  {
+    "input": [
+      "B3JeZuzlluKSZHRd30uqcYFlTjhZCTxiZqSIkJRh5owXhJ4JKWU94wLSuD205J9Ri0WTNISLn8yB2FQmn5HaIi02YD"
+    ],
+    "expected": 0
+  },
+  { "input": ["rrud2ukpRAH3VXcN8vOrkgT"], "expected": 0 },
+  { "input": ["cyNcId2nO"], "expected": 0 },
+  {
+    "input": ["Hhog2qgFudUaOjFAzeeU6lFpihBVGq8lqcyIXMrAdGL7wrpjSr5apH3"],
+    "expected": 0
+  },
+  { "input": ["B26Izqy"], "expected": 1 },
+  { "input": ["Qe9Wvr2tDWVd66IjinFRDw2VlovtXHdTw6baIe96"], "expected": 0 },
+  { "input": ["y0NCHwmaezasgeXiD103lUMuXp"], "expected": 0 },
+  { "input": ["P5o6tSlU"], "expected": 1 },
+  {
+    "input": [
+      "Q0hEK8n3HF93o4TH2BAWLHr0TaGe19lUv8jroTii5cBRAU3i8VcdsmA8v5V2YOGwo02e8DGjeSUkEE36f3VPTVosvdPQCf1yX"
+    ],
+    "expected": 0
+  },
+  { "input": ["cniUHBnwxHqIHZZ"], "expected": 0 },
+  { "input": ["t1J"], "expected": 1 },
+  {
+    "input": ["JWt7KrN7Ytv3BDSMTQNOqJJwm8Ts33dEcVAuUbBkap2BF6WqPiNT5bROc4oYjW"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "B8pl723dkDuLQoOddBGMWTIL5peZRNKMk8Wx6u2oR9QWu2m8T4OuB7OmIdGK3oVlP3ex"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "LHHYAmUWb4BJRPxWIKJkldALlI121z0tYvQyPJWc9dJyPkOfwBChlrpR5gnbRLnMQGluKY2mh4ikTg"
+    ],
+    "expected": 0
+  },
+  { "input": ["w5Zj2eUBDrOLFD0o2Qlte7w1tLv7Auy8BT2Dn6rKpH3"], "expected": 0 },
+  {
+    "input": [
+      "mXsQfX38nxVsX1qWGVQuL4PNJOyCNSOE4u5PWf41cV7MzU6VaWMi4JdoEVfNaIgJYgm5CrcGb6MN"
+    ],
+    "expected": 0
+  },
+  { "input": ["rIUnJMHuDeeO9Dmn0ebCic"], "expected": 0 },
+  { "input": ["i0VkmiIOj"], "expected": 0 },
+  { "input": ["QBtsxAM5YV8qwNO2IpfWQ9HvcetNnbaO"], "expected": 0 },
+  { "input": ["j9psjHAR3TA96KTSL5jPY3CQCHfwQVnDUlo"], "expected": 0 },
+  { "input": ["UYqluiQu6OLz2iRvAI"], "expected": 0 },
+  { "input": ["Y57WzlI2OrOCUuenjQtZj"], "expected": 0 },
+  { "input": ["fZ15wsDtxa2K6Mi1dhPkcfZxhNilV4Mcu87zIzNJD6xy"], "expected": 0 },
+  {
+    "input": ["tSspO6qoQuQIriXG3qqgaNAJYxGgVkndUw6UmAwdvpkMBQ"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "08VaxpJNhdNm0briqWjU3ES6qzLsR8jqH1yztaOlgeivCAWPRlrd5nsI7nOzZcFmq3H"
+    ],
+    "expected": 0
+  },
+  { "input": ["ffEzDJFKmcneEgdDw"], "expected": 0 },
+  {
+    "input": ["3dmlvhE8KibX0SLE62vpsQYZ3LSuplUIxYKMB6TZRbzjUT8tsuAS2"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "4lnXN6cCQTHMmsBfh92S3xleFu3v0GH0dQXXhR2lExuCVhv9ipcMqPfp4vct5FFId9blJL6UI3Gy6r4ejnRoq5voKTn2k0je3w"
+    ],
+    "expected": 0
+  },
+  { "input": ["vhBqdSVoJXl0E"], "expected": 1 },
+  {
+    "input": [
+      "Eb8b2ltxXiI2rNRmPy69LzN4ycNb3iAjNpcJFAr71D0UAAyh75khMfRWqOTmOFIL3tEyNDNBOewjt7vTLALfX8U"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "TtHIthQCeti0Mt3sF34ygIRklFRGAZEAZACAMyJbfCZgcsRoDHSMZ3guQpVwBkAQJyfpr8ZYEknBcvji3PSHc43YqV4js"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "jJQ4hWlIF0XH1DJHjUn9YZkXqQkGOv9m41NsuZL9olCcoDFXT7PjcsZ0NGRN98Y8anPTh0rowMk5aTn0Fr9jS5fZU3MJ5bq5Ie"
+    ],
+    "expected": 0
+  },
+  { "input": ["SvUfxb3FXf35U1ynxQc2ueeBLBf4U2oOPhGo4WGEvu"], "expected": 0 },
+  {
+    "input": [
+      "RrnzgRIdIwMCe8nuWEnG4Pxf7dO0WDsW9DARQJEILayCgYAVnkQoX5ZKv1VHHi5hw3S9POO2CHK5x8cr"
+    ],
+    "expected": 0
+  },
+  { "input": ["iVCcr4p2383xXifTSTBaC7lR1"], "expected": 0 },
+  {
+    "input": ["l8ivUS1MOiBCqjYLZ7evC4K0FtWdCsbKFGxEPmFypldPXL7YLpTYrf"],
+    "expected": 0
+  },
+  { "input": ["WDz"], "expected": 1 },
+  { "input": ["lDER7dc56avNQYFMIAUVVQnACO5ho5"], "expected": 0 },
+  {
+    "input": ["Nxp52E3yCutBGlevbtTKs8800FwTyLhPYl3N9uacc3pvVtJQ"],
+    "expected": 0
+  },
+  { "input": ["EHVVbhdLMBcrgTPX"], "expected": 0 },
+  {
+    "input": [
+      "EzJq58S6GETarvpFdQ2tyuplj8KzSd0sPg3EyjtS6A159al7rHDbr5AC6DB1iqyEOfzmWe4HEhTEuRtx"
+    ],
+    "expected": 0
+  },
+  { "input": ["N0YzEniPgvpuM"], "expected": 1 },
+  { "input": ["GyreEpQQjd7N95zl1mjJ8HyZVxrWc8OY4404fns"], "expected": 0 },
+  {
+    "input": [
+      "vJ8pjnIEtRWIDiYa95dYJWLhTksYY0LPoksPieNTrNaiMu8UkszCvFTLPNPGTRKN8GmZR60QciU2u4Kmxeqr"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["0WdLPsy0EfxrXgSZpI2nXOPnmuF27E6zcvhQdiBOtxZq10cnlYo0"],
+    "expected": 0
+  },
+  { "input": ["SHmxAOR1bz91icspff6b4"], "expected": 0 },
+  { "input": ["VUcKHioA4fxWsweiA82x394a6hVJ7ImDIPQj"], "expected": 0 },
+  {
+    "input": [
+      "xwalPgddIHI2uLLBdvNIZapr5jfx9ZTgN2FtVansQZiGnf22syFvCT8DbEbEU2y7DM"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "xgXYJrcSeim1WDlMtBhc0RM4QULu1nRIHBVceb8YqcZ6aRrCEC3uyGKD0oSiaVLAFpBD"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["OvYcpXQ9ZU43iAk93D5BucYlhSmPiupEHOfU1zltjey3e86qsZj12"],
+    "expected": 0
+  },
+  { "input": ["oWmGwKycraaBFzoIRVUjpoV0fkvSDfRbjR2ft"], "expected": 0 },
+  {
+    "input": [
+      "oKt8VLKtif3TlZAn8rK2chGycwZB66GvUOTom3zi0Qb5dkCM17h9OgDbYm4ZK3d5TfAr214k"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["t3HHyPqq3PC2x7sVCTQOKb3pwSPzIxs1ihCbiqfVdn3CCV"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "QXjTPIdjh2V5ojABHQ638r10uCDJ1gpCkv2vKzq3cBsYTitMOg7hToNxACoJAFM676WuEwCVJ1Rm2Ie0XUlVIslPRk"
+    ],
+    "expected": 0
+  },
+  { "input": ["2yOwjMFnp4jZBAOZyVEfe7wB4O0"], "expected": 0 },
+  { "input": ["3nfC0APDOCMxNE32r8PVl"], "expected": 0 },
+  { "input": ["zDRclGOdpjyKLg"], "expected": 1 },
+  {
+    "input": ["CPW1g4uhiknNMKdV5dU5yNdvfGzcOY5TTBJGIL126f9a70QRP"],
+    "expected": 0
+  },
+  {
+    "input": ["TK7dC27JGKLNzOetlZubF8LEaEJG1MEmyrJiDJNODRlIAZicA"],
+    "expected": 0
+  },
+  { "input": ["0BBsr0sMPUM4qmhDpU"], "expected": 0 },
+  {
+    "input": [
+      "TLdZOA51FurBYsqG3KRexTf7vYknDlNQGta4CGwhFN5pNgZuB6vAPIcRPqCHlI85XujE16N5wXzdcUc1uOF"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ZZNwF1WsUaU9rSSuYXV8s4ADqDXU290D6IfmsThIfMcXeoonOUCdWgJKRZHNr4CREh2wxVshO0GeObDBkoTPCP3rHovsZWD"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "vN64MMj9bNIBnah2SZFc2llTU0wIAwhjbMjaTdaMxR2qsIPvIGCoVRCV27XNsJBFs6S54esaNy8TgxkpBKplqEu"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["MWI6Km2w6b3Jfj2QwY4EEZsvaciC5jd9T7HH2ZTGAukuTPddifa0JD5q2"],
+    "expected": 0
+  },
+  { "input": ["GlV4TOemmWyf5PINPm1KtJIRjHaq9UPnpwaXyF"], "expected": 0 },
+  { "input": ["0bQRTI0PJWuEpHkyMnZn1nobLQ6Ay0zlKX1ntd3CnA0"], "expected": 0 },
+  {
+    "input": ["OBy63XnYewrlD6iEAOUJQYovfCHCQsbfkrDdHOu2XlFkHoFnY"],
+    "expected": 0
+  },
+  { "input": ["CropG4tCNiXyR5q9F182AaFnHxOa3bSL"], "expected": 0 },
+  {
+    "input": [
+      "BN6tgjuAhGsjKuB7VjVlI4QMFPwBzMHh5qnyfwZKjc1mVAsZrIl7t8xQ1i2GySxR1rD6h1fU1"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["RnpL4e5H7xOL2gGq1sgfQQxPxWZLcI1JkK1SizphhaYz2DMSasVHPlqS9IYNUA"],
+    "expected": 0
+  },
+  { "input": ["mnTwJVjxNYGTBJOAe0gj"], "expected": 0 },
+  { "input": ["VR"], "expected": 1 },
+  { "input": ["uhAFS1E98Wtpg0kioC3VnluXOTxWH"], "expected": 0 },
+  {
+    "input": [
+      "Q9vCrCem6KjnveDXnD1YX58IcFafGI0NV6VZ3Zg3G1HNeLyvnEvdNzPO3G9INb56lK6OAEkj1PAeDk5y71X"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "epZxcQyDAYCFuh6UQfM35kTH1ukTbGS9VtJ3shx75gztJfQ59zSMW2Su07h7LWtSoNJgutJF5jmQJbs0A6AnejosDtR"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["VBIeCHK8kyhniIyd1HAOtfu04EUOCkZidPJPNE5XamMRjmvzRZ"],
+    "expected": 0
+  },
+  { "input": ["69zBc7EudAbpOu"], "expected": 0 },
+  {
+    "input": [
+      "iVaFNRN5vnRVDAdvOAWwZl8Zb6KCIPQsijMJJ0umiklkJFjJRgOycPaQw0jBv0uvwtabOnSdG2tFeP3X4dOTal9QeG"
+    ],
+    "expected": 0
+  },
+  { "input": ["ph5puVZTm"], "expected": 0 },
+  {
+    "input": [
+      "i3R4faSJkVsBeX024DotBv4uZyI1KCDZv2VEr7KB3WGGRccqqr4RWlLUXEEzjdc8qvWLcOdy77orx"
+    ],
+    "expected": 0
+  },
+  { "input": ["wp9crIj8KOcBqnOAJcyRvEAlXHESGC43W4PUB"], "expected": 0 },
+  {
+    "input": [
+      "XL0kZe8L5jqaDxP6aCvLVg83i84xN60cjgSusJbDuKIORNIFE1v9Ga89Poo7Ugi"
+    ],
+    "expected": 0
+  },
+  { "input": ["PFyDAzeYXTafKOdudWuy7mpElXEDwLP0Rl"], "expected": 0 },
+  {
+    "input": ["Q80zGUdmndXbBBORzwSR8Jb2zD3gj8TfCDnZL6RuFQlddRHgy1Kt096"],
+    "expected": 0
+  },
+  {
+    "input": ["2Pa6XW7VAFK8fScq2vF9g8L6XKhMdqams12S5kGF5aht6RVm8a"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "HfQHf2kzlhfBbpKXIfXP0dYcONCy1d5K4562NB9a9u3YpJSlgFqvJxqtJomh8U0MT2M"
+    ],
+    "expected": 0
+  },
+  { "input": ["cRij9jALEFg17YaX451CEZ1OFP"], "expected": 0 },
+  {
+    "input": [
+      "USMsbpf2Z1TyIY3VKSnQPcR4l9kFDPro8xmfapVoJ5WbAAy4N3JZxKn7SEELZ9cKORdd18Jjt"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "XUiYpq1cSc1AHjq8tftX8O47YPedNDTK4ClBkMty8kwk5V0A03Mecl1YlhoB1Dj3zzNhIHYFVU0ox"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "WcXzkEupLb8lwfmvKwcIOIYZw7abi9Kg2aaunkdAUmt2jTaVD47YUTEcUYKXB5Mft0PWpgAjRFhQagFgzf1K9LOXs81RdcneZ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["zb7xW84dzKxWx5snGaUf5Pu6C9tc8KI93ICMj4VS2adkktVuUVPQiwZd"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "4slJMYfyYgumDREBUVZBFC7GdTEKitGaMuWjLbZl4TzCLWjZsFMbGj8RSxRJx5AJA7ey5ZUTL8GnGaz"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "WyYpe7uTA3V1gNI0VIIkajWohtbDm8b8DIDkVyq2xtoXoAuL1Ni0xT26HaC1A4a8B32JKtbmKS0FcpzUqqxMWLe5SUeDd"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "4I5mlsfI4Hb0tAA6gPc1uhrulBUdagSADkbAfwrMkMXlJjcPpZ5WzcPjzYxEojSC4cSjzjzZbuswSKzbWAqT"
+    ],
+    "expected": 0
+  },
+  { "input": ["oNjiPfT6OdR4wQnxp8HKz"], "expected": 1 },
+  { "input": ["EmG9"], "expected": 1 },
+  {
+    "input": [
+      "8nTEL8n2XkSEb62jackZSMvYXghmSMWKpRUm1iAqSXqblQlFP9glPYcifLXSDXPKhopsmjAtnvVuqYEsCVSD76n"
+    ],
+    "expected": 0
+  },
+  { "input": ["0zNxNtF36JBRihryHQtnU5yXGv6ufYgNhJtwDV8ya4sP"], "expected": 0 },
+  { "input": ["UELwxOkRNFaQspgCZsQ80j8xVWlcD0dZ2p"], "expected": 0 },
+  {
+    "input": ["W5XvTkcgPo8A0ntY9NI767RhKhg4GZNEHlTHR3iEXz4PIr8n"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "40AtUXFeJqfkgivPeWPnPvlwOJWQuVzsenUhu6w8XPdGTKHy5KQAkd63KSTaBhQkekKRda"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "6Lk9clTEtY8WFS6Erz4SoxyUirn33A8Bzkq2N6sHDlX3yBDl9kp5fFcsCmnlLjipD8cNYgQ4cIvcmAzpi2T"
+    ],
+    "expected": 0
+  },
+  { "input": ["XAb5RFSfQHazlug"], "expected": 1 },
+  {
+    "input": [
+      "EXGjDKxNN3cVNpKc07VQjKgJFHfi3KqDLPr9AcjUCNuROtCCQRG1oUCtcYlt0S5ZgWxA5KaWnNRoatfgIF0wodZtaNLVVrkbUjS"
+    ],
+    "expected": 0
+  },
+  { "input": ["NkPPdHSECZnDYd0Q"], "expected": 0 },
+  {
+    "input": ["Us5w53h4TNdPpXrxi0fM53T9QmADnSvQT7QDMJAAdVPMqO4GdfHq1Zuz"],
+    "expected": 0
+  },
+  { "input": ["O9KKVTzjhiHbYBYjJxJIzvtFlvUG8kIdcvADAjkuwwd"], "expected": 0 },
+  {
+    "input": [
+      "OP2qB5hdgqy1rySIx6y7rr0MYNdEzpe9RpPIz7tgOYjv8GqLzTTm6beQTbQp1XFwt9VK6xIbq0aTaK8dzneR5uHjv4y2P"
+    ],
+    "expected": 0
+  },
+  { "input": ["EbZv17rDwvcr9yypEMC0H1le0syU5wmJYbXCe3VKf"], "expected": 0 },
+  {
+    "input": ["fB2KrIvIzeNK0gW5NS3e8g2glzN1NLbTUqSPCSJHFVrJZf29mtQYGFh"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "uyFbasG4JuhaiooqANVbGxDf7dxqJynBX6ZpA1xjZ4lZqMllPgcJEE8tBY51gQCZAvvlN6wh"
+    ],
+    "expected": 0
+  },
+  { "input": ["NC"], "expected": 1 },
+  { "input": ["BkCz9XY13A2XED0XoehuT"], "expected": 0 },
+  { "input": ["iHmoJWmsd8Ll9iuBsO7JPXPxpgEcjGz3ELQMDf"], "expected": 0 },
+  { "input": ["ijLY68edQBgp"], "expected": 1 },
+  {
+    "input": ["AOdM9JHYF5V1btoCMPxjb8R5PnotH0hvN6O8z5RH271xpzOJOKyaSYb"],
+    "expected": 0
+  },
+  { "input": ["WicM4gsYZdK9MqIvt"], "expected": 0 },
+  { "input": ["PcUPfzBAfzzjgz871za5C3okWhFEiiLHx"], "expected": 0 },
+  { "input": ["f4mVW9S9Y"], "expected": 0 },
+  { "input": ["UuEuyZnrK3oRcFGfFJJaLaxlR"], "expected": 0 },
+  { "input": ["j4DBDbEvC8eenybfkW77qbSJ6ZHZ3eLAbvIpIJ"], "expected": 0 },
+  {
+    "input": ["Ln3AonxapcKdNdNET4193DE5DklNEeM9ycCuyqQZ1UI5wbFR54vqPurK2IJ"],
+    "expected": 0
+  },
+  { "input": ["HxcWeHg0QAKz9EBt1qytUBVNXZ71wece85WeMFqeuHSE"], "expected": 0 },
+  {
+    "input": [
+      "6DZw4pBmkjTlZns6RavQDVCLLVzYvetveyf41hu1Omxvlhm0B1TF3tbgdGJsssiFEZOFa5Tf1eJ0Nn3nQuuFzxb"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "VaLauE03qKAuZHgPV9HQ3dXtT3srTXCisXTOtTdzgsbvhldgBGkckZITxtnMe33eh"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "f7qumXJAn9SwB7CbEgPoXd3xW1ZQeTm2vEl0qr72EngZxnqmXYqhQgrbOpZWR2k"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["kcIFyLKumqm9JrTGsrybw7XQULkU2uBH6rrRkUdHLplMkcmAJjCU04k"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "jiBEcxo0P4t9tRKlvy9cjvl9rcBz3GM0poQvlDprsKEBwAMj1NeJOBDNcGdJ6psprJQR9RCupoJPWlqZDkkMd7BwkJOvx"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "w7Q4YyeP4RjpOcpdHDl0BtRT1mjqutwx23VMlDmHp9B6bPRLwiufsF4U1Iw8fzWViuVhpDPvlWhKCgQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["EpeEVxE0SbUl8TPTr"], "expected": 0 },
+  { "input": ["XpDDbAy01z3CPgdz7d1PQW7SlrzvIfySPvV"], "expected": 0 },
+  {
+    "input": ["psBWAvrRKD4R2qUKuww5q9SgLjmbpU0S1KrNnP9sE41Tq5ym3Qet8BqRzW0S7"],
+    "expected": 0
+  },
+  { "input": ["3JS8FUolyFMovieAYRmplNrQR1HvL35r4Uf165"], "expected": 0 },
+  {
+    "input": [
+      "SCjgoB8rFdxj8hcmLxRSKcwZIt8zllFgqFdPB9yr7WZsdxMDcTxeBPOvkyhoxabl3flSUD3Q6fbRnlTRuPNaxx2EHjXwQNNKQj4"
+    ],
+    "expected": 0
+  },
+  { "input": ["X8EjtkdP814fdZH5ib9ZHXELnTHV0F"], "expected": 0 },
+  {
+    "input": [
+      "v6Cb9vY7vuKfzmmToNaWXULMiykYC3XsTmvxsTW15dgC3hWtQZifpPBY3B0NvQFfu9jbqSiiEAWyNvMd61Ewqep8z5Apg4tEdeuC"
+    ],
+    "expected": 0
+  },
+  { "input": ["EvwTraiiKHirF494BSfJdbLhWxHg7BPU9N"], "expected": 0 },
+  { "input": ["C"], "expected": 1 },
+  {
+    "input": [
+      "oHWxHpvRxfgO164NHoUtwMOondjtPpaCXAs7q7E5B0rF6B8dYkIpcXdRrIPGQ87rp4unO54dMqf5NooKiNN"
+    ],
+    "expected": 0
+  },
+  { "input": ["zv6ZHnnmf8YUq"], "expected": 0 },
+  {
+    "input": [
+      "GwfkAQEClW3S7VHyjHsCB6htAn5tpFXwB0J5oUPmqFeGNxWWzuasKBWQ2LVzUEQoTHKVzw8UHfm83uTL3kUmDv"
+    ],
+    "expected": 0
+  },
+  { "input": ["K5TzidjcOFnA0nmu6d2wD6ENIZv"], "expected": 0 },
+  {
+    "input": ["pJejDcLAbR3QSdIgPQO4khVAsLPXARKhLk9hsvMTfpnR36pWbnGRaFzrL"],
+    "expected": 0
+  },
+  { "input": ["kQ0DSbFEktiblnPSSKfcifCSXQFFZ20"], "expected": 0 },
+  {
+    "input": [
+      "3CSbPLTNsT31ZSTeQDB1yKW9RmEZPH2Sn2T4nNDwe7y21OrI093i6FEqOA2scO6gC4kcCaGpowFaRU7Kqq0X6q3ka"
+    ],
+    "expected": 0
+  },
+  { "input": ["VK872Do5S1piJAFuHSm7FGToggn1PP7PSvFacYT6X5"], "expected": 0 },
+  {
+    "input": ["WwzC8iNiJIaRLg9RPU1ACMu8teyb5mjwikrpnOVv9cv3b7HfWuBxbj5Qj"],
+    "expected": 0
+  },
+  { "input": ["WBbq79IXqldTgxT0bnPTeRQUzfw"], "expected": 0 },
+  {
+    "input": [
+      "Y7hPLtogVArWmCBN3Pf9BNjXJFTrvWXV7WEatAINr7mJEGvR5JrX3O5FOpSaFGTpUtMdmYy18Kl9UbRxt"
+    ],
+    "expected": 0
+  },
+  { "input": ["kJWw8"], "expected": 1 },
+  {
+    "input": [
+      "3Zs3kHP70tXj83TJDsOx2GC3a6nD6lnRF1sk3n99JXCBLfyk2hK9B8ZohjTVYzdfCdceCCO6BNNIKD6uEIoe67fQM"
+    ],
+    "expected": 0
+  },
+  { "input": ["JrzUeITTKwTf4sYzII9ULpxcl6CFUvXoWBqPu4RuKzMfk"], "expected": 0 },
+  {
+    "input": ["BETVfD5MeOgHHk5UFjFcbIyVb99AMV1L34MD6fNBksxMaMPx"],
+    "expected": 0
+  },
+  { "input": ["4"], "expected": 1 },
+  {
+    "input": ["yg6tCgIi8rEN6l41Y316AWpob5NkEtAKdGjMP2U1Lqv8UUmaUfjDrjQak"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "6W1NGGuOz8PSBIvYNdW05f1YrSjDHYNQWMAoj2JRntLrN843EiAzx8zG3juKwat0PAa"
+    ],
+    "expected": 0
+  },
+  { "input": ["5iKzOX0kd4NcYXAc7pCeGmcnDnOBJ8Bx8Ulvx4G"], "expected": 0 },
+  {
+    "input": [
+      "s6R2j6KKGpQe6cdmHdFJTwSDudzTylyeITYXbsGXJpJD4hoRU3s7UfqRbilbchglVdKQFiX7B"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "cheiW3FkPIuCOi9olNYSLFJPWSodQzJJktKBxPoMJnz5i2YrZ5l3JicyIRNzTKSAP62ogLHoZn7wxkyaDOOnj6F1IdjjyBkRLl9"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "hpWwPS5kyKwsrNVtZXJQfOzkn6WG7yFoy7XANtXDjUDnCnPhpITg1mM9i5bXK88GKwbiecXz8ONan3I76TiWIvpThGReRF"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "0FIuBOHMHZjRfkQA0SWdKmQlwD0udbD7htV5t00tQY9Z9FLnbTJWNSifczdNfs2"
+    ],
+    "expected": 0
+  },
+  { "input": ["RRYon"], "expected": 0 },
+  {
+    "input": ["GUwbMGf3TrN3a3RhhqiaOCkT25cHB2q2TkS5n7W3FtHqtN4fM"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "HCeaTPqKqWv7LqRKjNqLhImDVSQv7MLI4RGNz87tIVPikWsEkAVOBxHHsthAfpe5YYc589e"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["40j9FSMNljPUNmWmxgLxIs3VjTfVGUcvo64gxacroEKJaDoeGEZSYGXF0Fc"],
+    "expected": 0
+  },
+  { "input": ["XKODHeucsHbCRbUin0IpWA3"], "expected": 0 },
+  { "input": ["AUKJetF7R4r8zIoG"], "expected": 1 },
+  { "input": ["L4W"], "expected": 1 },
+  { "input": ["prFdOIjo88Cs1gMt3P"], "expected": 0 },
+  { "input": ["0heWWp2Y6QNsd7RqiNfqDSt12aRcdknCrNhd"], "expected": 0 },
+  {
+    "input": [
+      "zMvzP5KbyZw6iGHt8b1buzhPzqm5ikPVh1oQGvfThYUDyzWGTK0AxlZAox0Oni91PGtq5rymQZciDbwefK3Fxp5iKhcm6wi0H"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "hO6BinxVq92JuQV2i68Awp0YBY9gD1j942mz4MgKsm7WT9q1A1P1xfCIVnzk6NjxrDZSxFs3T4jKHaRZ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "wKELHx3oW9DSBzCCG9oLmdrxnCMqBc3lh1488tyPgQh4Qvk9BJlTtGfhhJ1b1vkln17gGrIoc6DLKInwT5AATqHve"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "w5guQFMHzIIYpZ0ndtUofVNxMql28OnbGowbg232uNA5xrOMSxcLTaHptroBxXUgquo"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "EU7bRXIK6RRH7D55dc7C5iFsaNl63dkazDRFyV5rQVH0vOgKVJj0Kj5I8zHgqNB72xhRQP3"
+    ],
+    "expected": 0
+  },
+  { "input": ["91gp3Poo5MtQsTRVczSnZSm"], "expected": 0 },
+  { "input": ["z9pZezz6CiuHs5UmTv3AIUlw01hzXRGzBtD"], "expected": 0 },
+  {
+    "input": ["5eQDFEZCwP9kAAkysx1xfwlpwur3NTY61P3EY9TqI4PPs7zCz"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "JDEcJRZI9BZb4W8rLpoaxFeADoIysmtVN2KGfgfq3WF9kh6tvi8bsKqSNMo52XL5m"
+    ],
+    "expected": 0
+  },
+  { "input": ["nN79CpzYCKTQVY"], "expected": 0 },
+  {
+    "input": [
+      "TZ7meCnI2koaHAk1dfNg1vIiPZDQOyErtO4X4GEIyk4hQynid9CKonTBfoDdA6zFjutJnPqtXeKUzAK"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "jEa17hLQexabEIMzpr98Xmfe9GUDkCCXoFpGPmypwvR0I8y89BBRkKtAImKnz37RppM9"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["s6od0w1DdY2jtRN49YWwQEtCJHYFWMFnyCANueXuZh6It6gZTIf8y9HoVGC"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Pw5HAUJ4gpZ3YSTHLP1fuciHayfqpWA9BxzsVfQAv414MTIFQSowdAdGSV596Yfg8dZsTcwIW"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ztLvHsu9OWmpEC8aXa8uDUE2hgV7VazUWxqx5d4gFObCeIs4jYOnz3pn8qHxcoBJKB70RV1gslHFHDfBsWfxPj91CB"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["KDjqfptK8CWbHhqliM2edywXgLMAq4PNmVMX8O3Ryf2uBcpGgL67Yv7y6N8"],
+    "expected": 0
+  },
+  {
+    "input": ["Zpob10vpZYCFcqo8aRAKoAiXS0cZ1xQ1dVvP5w3QaONuuejUAZM4N7"],
+    "expected": 0
+  },
+  { "input": ["Bi7lQAMvrnM6MnNLZLStgCEvdVx2jLT2xWxdnjOCv8i4"], "expected": 0 },
+  { "input": ["WA2casDVaI89rAZyH7Cq05"], "expected": 0 },
+  {
+    "input": [
+      "9IgNmx0eCpHyZqAGQ400zFpsbZH5oBXyDXZzzk2MRRer96DqyXY198wg95le477tKMfEnNxabjqzzo1"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["TMWYC4Xue97HkCG0pGupuWtA5pZiWmAmLPsnZN3Ei3XbiHv7iVDrAhsQUbZ6"],
+    "expected": 0
+  },
+  { "input": ["cOPlC66Bv5Fl5S54fNSgqob"], "expected": 0 },
+  {
+    "input": [
+      "2CaCSE2OTSRCnld3qVAvcPeDpj3GuMy9zZLbfp8BKPcNXd3Qwg3Qdg0RZu638HJdAQ67G5JyZtnMMwnJ2jHG"
+    ],
+    "expected": 0
+  },
+  { "input": [""], "expected": 1 },
+  { "input": ["EGTfq0hE8pvoyTi10FIW3SYKuA4whpjOSKsIcQXh"], "expected": 0 },
+  { "input": ["nTzgE277O5ED1pEWk0UnC"], "expected": 0 },
+  { "input": ["ZkHxMgfVfwp9kU9GWyuwqKbBoqQqJ0yp"], "expected": 0 },
+  {
+    "input": [
+      "TZ7ncAdG3nJwqvBEfHuXiuIezaAmJNbBj8sPV1LOk3vjjTsYrdj7SMsZytwy9Fb9E"
+    ],
+    "expected": 0
+  },
+  { "input": ["I4B2"], "expected": 1 },
+  { "input": ["fKGhhoKTJxKaaMRxGMNyMB1U2R2BcFgYf0y6YWsOGk"], "expected": 0 },
+  {
+    "input": [
+      "G8YBUi4ff9KOje8vuDTfnRJ59puZCus1Gyf3E5iAI0R3vAmFbF0TXkpq1yV50DUPMe4X5B1L6OwISj"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "iM1jn5eA9wPaL7L8dYodaYVLliSxJGKpIffvtghgydaQ6sGXgEglVfT7mZeEqgYcuF"
+    ],
+    "expected": 0
+  },
+  { "input": ["gZZudQdeffPmVR7d23IV2jjslydH1zR07KcP8LIbp9ioR"], "expected": 0 },
+  { "input": ["3mI7wn7ff8k1cZ"], "expected": 0 },
+  {
+    "input": [
+      "tpr8ZHvK64V6cWvtraxnRknzjRh5po5iscjbsIRwCgUdI3g9BRs8UNPO7DCZAURTNrH886zzobBIXp9dsASj5CYTM56KM8reis"
+    ],
+    "expected": 0
+  },
+  { "input": ["bAUnKSJnOvN3CBS5LpXYFkqbidSBRTt2jmqvqwfWZMr"], "expected": 0 },
+  {
+    "input": [
+      "HK1ecFQdYr19H1FUsiYwyWOah4BZl0od3Y4ZLxew7IggHOuXd2Yb3iFnIUTbdnzMQ6uo5goeBCz0MuDzt"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["fBF11xpfGFb3GO11w55LEhqHFZrzPFylSSOpEXW0aVD7MELhxB0"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "YzV0Li6yG54zSQ6cSeyIjYaPS6sITNT5fXrUsaqIjbTp9oSQBvw3G2hRFvV14tF97n0PT3a"
+    ],
+    "expected": 0
+  },
+  { "input": ["6aTAvnND8xWelgklPft5rN2g5wYk8tgZs2"], "expected": 0 },
+  {
+    "input": [
+      "chLXiRbTB58WftdQYTQ8eajdctel2GKvBxSZmvJoRQsYZZkletTsJGL1L2JMNN4c6nsKEXxYUzpHe9cACpYedL1Hl"
+    ],
+    "expected": 0
+  },
+  { "input": ["i5UKpU5Sj9MELT"], "expected": 0 },
+  { "input": ["ynNiMbj9Fy"], "expected": 0 },
+  { "input": ["FcNVGQ2SimYiIQPCAU9l0ChnlleHexQhiWxxJnx42"], "expected": 0 },
+  {
+    "input": [
+      "jmL2T7vgrDMtAxSdTeTSZ0Aic5ZAWjgLKk71qO3ez9uoaAwqNQgpajdyECihLmtWyNwFEAe"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Jr9CvzAmpDrWXVeWtlcdgKpIQiJA2vq9waQjiTuuR52L0gOXZ0hYTe3ijRDSaEJm5awf9eMrOjng76BYl1T25rEa6L"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "izOSSa40jo7ZEmJfIYTJ0mGVMNnUtNvvnNRH78lqNtRNDGSxxAoJz5XEpDcc3cbHCSOQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["yXTBGsCbFUudevcZi"], "expected": 1 },
+  {
+    "input": ["5iXotUypBv3o43273O3wZZXTUwEu3MtiYciYp8VKfLIzhzCw7Xe4H6AOxSZrRY"],
+    "expected": 0
+  },
+  { "input": ["OAmnKoSV0PqzD5SmrGn1FOmbxYPGB0hMV3"], "expected": 0 },
+  { "input": ["maovJkjlYXlWIDA6SeiBNWIONr6"], "expected": 0 },
+  { "input": ["vdWS8RCP8d5kk7"], "expected": 0 },
+  {
+    "input": [
+      "QPFnPcvxtuXeC8p1MdF9bxn4kgN883anFQd2tV0ECuDeE3A8EYlisWXR3KQiRDezTTVx"
+    ],
+    "expected": 0
+  },
+  { "input": ["xb2r0XLRwCM6LL7x19HtxKMsJWOqol4BKpI3i"], "expected": 0 },
+  { "input": ["InWNDhSvL"], "expected": 1 },
+  {
+    "input": [
+      "CFJ5lPeSti39YNdemoWO3mNnjQvAiTbs4QJGIL5n52n9qGYm4BN7KZdvKSjlFgF01"
+    ],
+    "expected": 0
+  },
+  { "input": ["AFuNoPKglgnu8QQycA5478vKKAvtg7E"], "expected": 0 },
+  { "input": ["U3sjfWhN"], "expected": 1 },
+  {
+    "input": ["UCiDnGkBiXHI6ivt7X6jfA5WqyqJFWcjBTSWvjNtHuVZYlJBAS"],
+    "expected": 0
+  },
+  { "input": ["aIVERaS"], "expected": 0 },
+  { "input": ["0iQAXxLmy"], "expected": 1 },
+  { "input": ["FixmIplyXQW1TwRVpSlaxyG4vG"], "expected": 0 },
+  {
+    "input": ["thwfliTQhDlwNp2ZTsSUKrbWMOSXvqn2Qdj10ufATJbtXWJa5fXd"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "0CLlrwzSkHwzEBOZBl64eDt8cBt2h4xIMfbvt1Bf71ZNhYyEJOX85PKUicncpfoF3YNvmu7AheYbP"
+    ],
+    "expected": 0
+  },
+  { "input": ["9R7vqsbuPU2M9N77acVjWrneZX0BNDS5ToE4tdN31xpX"], "expected": 0 },
+  {
+    "input": ["UpXLq1UWWLFMKZN3XijIxoMSuKeSlauf0dMuqjDUfOg3d3iimPIM2726deLJLp"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "UXyrcbZO6JGV4qBesToVF2s7wVheqFDQlTIMW4mSr9kRyJOoAu1CRxbNLAFG4ZUmhdK7XzoVRCa9scQ1UXzxry7PWbO4y1t9yEs"
+    ],
+    "expected": 0
+  },
+  { "input": ["AHtf24VrK2Khk2yt73t"], "expected": 0 },
+  { "input": ["CvJdvP8qw0OHhHyp16ZZQULlLA"], "expected": 0 },
+  {
+    "input": [
+      "nQ8Iykv5kvQXSUH0NSkD9aancqWCmCvCgIK1C5Z7r5GuKmHbdKr1FbXhNvGfi8YaM6DLOkqbkaSy0Rp1Fc"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "XMubaOIdy5KPnVLXhlhWqvTeCfmo6OUnGhVgC7M7JPuKkLwCjppEioSGVhVGXBk8HVxLktYnp"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["L8FU3xohYogVcVeJ1vxTLZzIU4c9LxwPq3qcLtKN8HzIinL"],
+    "expected": 0
+  },
+  { "input": ["tcbcmDcebj4X2wf3EGx1ICqA7EtZfRo48SFcaLxlu"], "expected": 0 },
+  { "input": ["SPHXJ12tnu54MffBVR7EmtYy9f1X3tdy0sK"], "expected": 0 },
+  {
+    "input": ["1Mw46VLTeDxOq1NVWCxBpLjNwBMd8s6R6OY6h0nsKn1EPm"],
+    "expected": 0
+  },
+  { "input": ["Z9PXfLJF97GRFWRzfIdRQvHu8cg"], "expected": 0 },
+  { "input": ["Y4"], "expected": 1 },
+  { "input": ["b3LerT0X3FsjlRx8ugfuQ"], "expected": 0 },
+  {
+    "input": [
+      "k8uvlPfpgBGuID4evX7wzZRBJvl9vpRG5fns0v8Bo6KhBYKY6U0pnlMYB5Cu6kOrezDbOUNYhP1DcKUt2K0EaW3IOCX2CAaG"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["sfaznqZlovQPBA6YrUbrWaBCDnQzCEsGf11UtexqldDqeHrt3yKDnZ"],
+    "expected": 0
+  },
+  { "input": ["ui1sWq"], "expected": 1 },
+  { "input": ["eGj0eQi00AXJtS3UbwsqCU1vHKgjwlHELGCiqs"], "expected": 0 },
+  {
+    "input": ["icfXU20AWLzI55kUoUOKRs6kxouNqb9wcNLWhQAxtvIOB1q2lyY1DZVV0A5gL"],
+    "expected": 0
+  },
+  { "input": ["sPGQCKdIeGTR9v8SVaAEN7zgyLxVLZZg"], "expected": 0 },
+  { "input": ["vU7l1pFBch"], "expected": 1 },
+  {
+    "input": [
+      "NIZb8LQu9rEpdgqHDbvbev7tAY6ZLui7IBNxDsi0OYaS6qVfdB4JhZUwF9XD8RBCxiWXkkGJFcYOtU6B1PlfKjdF"
+    ],
+    "expected": 0
+  },
+  { "input": ["oR8B"], "expected": 1 },
+  { "input": ["TOKIxtWSC4Bi0VdOzZimLukAxdFLUlFgGyf30cb"], "expected": 0 },
+  { "input": ["PWHI"], "expected": 1 },
+  {
+    "input": [
+      "ZRZharTjwmwVsZbz8zXLN153qnbULFZlUeJKjKdwFw4ETNTGcccDTF2cqegFAz6IoAAr3"
+    ],
+    "expected": 0
+  },
+  { "input": ["tfIrHTbYl7pdEwKhBVQ29EQG5nE2ob"], "expected": 0 },
+  { "input": ["FfQ"], "expected": 1 },
+  {
+    "input": [
+      "3YN44GsLgZEljinWqEMtMHO4resaYDfjKTf3ceC7rQOGERDpX43m8yPlVhNcYFujs7IAwceY4Lk00r9HMB8losj"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "RyN9LGVEYWXelsQJPGJJsoLVosNOOJ6hOhdVITmlyYv515HnO5FOnm7j41wSUa70Wt71fnZZV1yMi0Ijb"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "sQCgcw7zhzB6bDRs6Ecph4U3U2JaUEDBRIh8zK04YDvomocKkBF5gV9naSYAaix9DXWk92Nb"
+    ],
+    "expected": 0
+  },
+  { "input": ["x"], "expected": 1 },
+  {
+    "input": ["AHwCs4LbyLyFM0GwcnwuvlMrfGowMsUVsLsFXyUqar0A1rxjWXtTrGnwpwVm"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "pMKEkRrKq3tAAZ9drrKeYKMXROWHNQxhCL8lMhZfH9XbDxiFX2Jy4O27L1zrIGFieZavaxBrALrWkRDQQV9mfpe3yvEVoe"
+    ],
+    "expected": 0
+  },
+  { "input": ["ZDBJY1FUya1WkafgYXnGDFBdtlupQoXNgbAFYuuqwcX"], "expected": 0 },
+  { "input": ["DtHjlGlJMsXIwoWHWKUhRsKG"], "expected": 0 },
+  { "input": [""], "expected": 1 },
+  {
+    "input": [
+      "RxY3gEFr5KSzAE4sMQJMCTOdhAStaDE70GKW3oqW6p1wFxTqQElWra5GOIm13JeSBv0H36ETERY1cUxPhbq2elbJE3mzz3fcrMK"
+    ],
+    "expected": 0
+  },
+  { "input": ["WlKnMnb7IXkydE"], "expected": 0 },
+  { "input": ["apaxcZgh8sYb7YQielo04vvfVrOVSa55X"], "expected": 0 },
+  {
+    "input": ["3Jf9sgnZ6jybmaLg7Kql8nmVSN7Misabg3M72l0yqLi3qUeqtNW0A5NXjoV"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "zu8scCbOwGlsy6PbVR69NqRz4y4V3yP13w7zsKrBR71mkvdoju6asJTV84PrpRJDV5iHnhsaTdJEdxjGzA"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "8Bti342EgCqqJtUUJunOnHRWlF35FMahiikPscNoOmu277pQzWBgV7cHraCA6YK38euUrs"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "TsaIS4oKxLhUbttBf5ydzCjbw80AofIw90D0RLLZRZB7TEeiMUORuCV5DQ2WIRaRJdx8YzP5lqZVFve6r893UyQkPSD0"
+    ],
+    "expected": 0
+  },
+  { "input": ["eQ"], "expected": 1 },
+  { "input": [""], "expected": 1 },
+  {
+    "input": ["FkTEI7DM7EYquRi7NerJpRcLTNkfelPLzKwPWFHJcUe5AyPRDecgWUFv5"],
+    "expected": 0
+  },
+  { "input": ["Sx"], "expected": 1 },
+  { "input": ["9cxfI1wlq8ccVSUVrBEQIOGr4Fk9QVHBqzlhYi0j7"], "expected": 0 },
+  { "input": ["A2NxjC5FLTm7dUjagD08gHmEZshTp0"], "expected": 0 },
+  {
+    "input": [
+      "ePQESlpfoZZr8tMeTOP27y0v1Ag9H8Bsi3qMq7IJszrUCp4NWCh9uo3K10d6EZ6oyfc6xSos6sgFIg"
+    ],
+    "expected": 0
+  },
+  { "input": ["eLjzWx"], "expected": 1 },
+  { "input": ["VsBL17puqGSGjf5pUp"], "expected": 0 },
+  { "input": ["dSHENmpjMPb"], "expected": 1 },
+  { "input": ["qtguQJhINzAmFy8hKxZ8VMhgdcz7whgmJlAnd5RV5d"], "expected": 0 },
+  {
+    "input": [
+      "OHFd52h6bATZoKAWe3rTu70BjqYekSVZnsAEoKgHwOg1snhqlIoSycbh63BNfPyTUhexZbDi5JMSyDbXlkiU"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "caWOC4oJsKcYWMcB5l8K2sYIyEekzDzSYIaFdUCe6XUXw5uaLUDRIObcD5iG4KSE1ezG80jrI90MQ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "IL2jJ0XVwqORS6pWuyJQWwk12hkOnsQ0oiQjzKI8Cekd4bPWlzJH7Bmr36Hy892OBYZQlE3HoDXiKmoX34yF"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["akCXLrxMJB6WXgKL3yWkOQjeBcDIVXGiIMGnrmnLkUUhmUeM"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "U6xycz4iNvoaMxg905FBiGMIqJxlRGtSwjKFwkJ7XlPMwR7RxuGpnzQZOCgchIdiuPxum59OT5H"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "aArfNCN1VNDWZDo6CljQljP0vAObMxtIo1YWyCSTHjn0G8st3G8LDJmH8VnBtqojhDK9OdVky6vfgszjWqZeiiAXJ1W9o"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "yKUmx16lmTtlN13mauTGg2kQOVavJo1ApdNUbkB04OfjTZSRg6zj3Alo46rjNEXHR1wZ"
+    ],
+    "expected": 0
+  },
+  { "input": ["WLX26u7hHKoDHwdv3PNW1OKe43673G"], "expected": 0 },
+  {
+    "input": [
+      "DkzitzzRs03JLL7hASw6YXcgkeS4qrzojfnabYaT77u2Y2YdwDiNLqSHHBUbtZugNcdaHO5we"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Cu5yZ74rDHAc1lF5Y1ibEQBNvcgmy7vA7ibucMUV91jPYv9UxJvBD44j3bQynVX4Yvqgf4NmnKai"
+    ],
+    "expected": 0
+  },
+  { "input": ["S"], "expected": 1 },
+  { "input": ["OMWLGP9vagOEJzg0exXI7Eefu9rRrB5Sz78XxPQf"], "expected": 0 },
+  {
+    "input": ["9kSwMlP3jRoFFjhCi0Zj0qCAEVklJ0nzrd64zKlXd22ic743hlgxKNbG5l"],
+    "expected": 0
+  },
+  { "input": ["aKd4gkPZ4gMdPGvxuWnlfyxNaBdTzCsdXzBSes2f"], "expected": 0 },
+  {
+    "input": ["Jzn1MutLvzrMdvrAWUHKVKKNAdXhDBg282nUQl8bBKHhdmWjt"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "9j7Lvv8C6nNdEuWjF7JPkY5H38vQYwvs6qW7REnzHZzW6ROBwsDvdSaKQZUxERPe56fKOnmxCSxOvjOvo4xdBVhbJ9shPDy0"
+    ],
+    "expected": 0
+  },
+  { "input": ["P"], "expected": 1 },
+  {
+    "input": [
+      "53xP14ayitfuVIViESYsHvic51Ora5NO07xc6wtJrK1hj2GVfd4WgKRw48LsVw5U4d1a8HxPBxYhZ"
+    ],
+    "expected": 0
+  },
+  { "input": ["K90P4axxwoQtKO3UA8"], "expected": 0 },
+  { "input": ["McXpq3dsFul"], "expected": 1 },
+  {
+    "input": [
+      "zG6Hh7tzjhP4bzOo1FItYCsnKp5aIXIIYUMSgU3Pfu9jViznuHXHQeCGQv5KrY0pP2rD1pvHRPxJXTwM6Jf60rQvzUpJTfO2GQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["qnyWMcaC9BAoW0"], "expected": 0 },
+  { "input": ["wWGuoLLSie38NDXriL8bBv97VEbMvkK"], "expected": 0 },
+  { "input": ["BpkyKzCTRdJ6OPw4U"], "expected": 1 },
+  { "input": ["0S6VQl8nXmkL"], "expected": 1 },
+  {
+    "input": [
+      "U0TvRSKT69mFFb2x1xWfUZ4TjqFPdpiKKeCFZfXAc5Qor4ixf6ClWVcQpRIk3j1wVjk7BNeb8m"
+    ],
+    "expected": 0
+  },
+  { "input": ["xzelXTC0rkdlPgGIWth8ZwLYBhWasGjXaBSsG8ND5F"], "expected": 0 },
+  { "input": ["bVZWzhuncrt66Mw0m4xFeifTOfAwm8mLOl5cvxx"], "expected": 0 },
+  {
+    "input": [
+      "GufcbkUhqHzKzVwHX5guYS3XY3A1Gof5LJriCwD6WMwqjHwSpt4ENj48a0t8bCdiiYOQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["VjdI6jehYBYDzB"], "expected": 0 },
+  {
+    "input": ["ZILm4EzyH0nsWPXjoHG09rljPqgLvOq79yGZM1mrqMM35kaU2"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "NJobpieMSPHbE3G5nQTq3XLocQfROFSDeHKcORc2PpYNS00H0DybWoYTQ3AerKaw2ekqptQSVz1161cHdV7i"
+    ],
+    "expected": 0
+  },
+  { "input": ["ieXzJmUucMnSvS40qWBUW7syr42Aq"], "expected": 0 },
+  {
+    "input": [
+      "EDz5vY6UW782ifhxBsu3TthLySpPvq8d150Tp3ADllB9z0xpx6vkPL5vZ32ul0BRMZWECmAq1"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "zlTZxa0xzQAEbjnIibZcDa3th9xYxy7tLqkKyqQdJQqAQK0HwItaGjv7NJiW867S0YqqL"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["S6as60h6q8WwETl8qMMJWZ45eublH8v4uTVaJb5e4Vd2g5r0p1OWBgUXj"],
+    "expected": 0
+  },
+  { "input": ["XEalmD8Ejt2"], "expected": 0 },
+  {
+    "input": [
+      "HG5a0pWEVWvp5UR3hn5gkoeuVkch5r6v6cBc3pcuPn9oNgEUswRgOFffwZ4u5IW0VxPYkMnw5K9emQ7nD"
+    ],
+    "expected": 0
+  },
+  { "input": ["vaVkVTMQEdFC3Z"], "expected": 0 },
+  {
+    "input": [
+      "ryzxp1LqTjjhzXooNpYnceFmDwFxVXZElfdNScussITkroYZRat8sNv0znuOpShypZGZMuNRBda7szmhjzEj3YofJms"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["C1b4FjYZ6NxX6lXZxLlq4BsolEmxlWbA1CXO9Sl9RCifqxy"],
+    "expected": 0
+  },
+  { "input": ["b3Uxpn9KAxfajzgCrQq1ZzovjuI8kWIa4k6SDSaEw3k5"], "expected": 0 },
+  {
+    "input": [
+      "6GgoOsY3jxFY7Qmz3JknddlP8yzNcFsecVdbKQJFpheAicyKmvfW37hVJTyuW3oabGj8zJsVyNUsRT9K5Cw"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "ucVV7NZNaj6E9OgMvmB0T4nuXPK7WEDB7cpsokflBxAb92IXmbdBrEkjXHmdD8B1pBdQTtkTABrr1PFCksaux"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "1HYhl7jIqMpVWDsMdIETfgjb5It6vza1rbstyXAlDYnnB5kJz7xRPgBRVF2qVTDGPG7"
+    ],
+    "expected": 0
+  },
+  { "input": ["VRm2B78GYEWtWnmEEIyAHRJn59lPScwrpMqq8yBBVLd"], "expected": 0 },
+  {
+    "input": [
+      "h8idlBPkmLsjAKvy5C9HHPKsMTriaLnHxVpQWYmpHGyPZVJGx28K6mDuiFz8YivqXurLbZAUfcFgq4ge4dkVY248i7aOanAFI"
+    ],
+    "expected": 0
+  },
+  { "input": ["dfteRdFTKpDPFlOUKVcGK4A8e8gBie6HlIgMopZ6FeJ"], "expected": 0 },
+  {
+    "input": [
+      "qBXSnlxyvxtDmGQxzxlkb9nsCAZlFFD6pTIPcLFQz55FCGX822J1Htrf3LDyL8azBq9h"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "yq6JvAMs8mHAWGfKJaaSuYAMsmMdhLxoyUGnXysLoVsDK1RrxikSyD0BUJtYA8dlGlnUkajC63tpY73CIa9CC"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "JZmnjYhC5PFsbSufWxdzENvz1sdwMv2NyeKTacoKZCRvvsScfX5m4yj4D6IIN9Ahv605apZ11jHemmjoQBmUzE1ErNyw6U4b7q4"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "LIKZXZWwIZ1GOXvnkXpmLydkG0FQuY7Pbu54J51iFVcfIitJ3shFaq2BsOCxUu0xxkQHqDhaSu00L"
+    ],
+    "expected": 0
+  },
+  { "input": ["M9TxXQeNGIfuD"], "expected": 1 },
+  {
+    "input": [
+      "74Pofa7lkwSwNsA4NxElJNa4GCS70ipAOH9y7ppiriPTKTF1Xdq8ro7ZR1JotWlLmgKNH7UdD6O8hNtYWKZuvNU3R"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["Z9ciuMo9lxVfqawK1MybTjWAVqIwftgEwAedqTpMDZ1XiLgEZ"],
+    "expected": 0
+  },
+  { "input": ["XyDVvhweIuX6k9FzTudttLFZ"], "expected": 0 },
+  { "input": ["Rq1fV96a1Ck8YBZEQRgFZDBonoKMrvtMqzeQjQBufS"], "expected": 0 },
+  { "input": ["cv7obQ7miWu9a18RljtJKJZ"], "expected": 0 },
+  {
+    "input": ["qghGgiJ4JlsSTk63UqgL2mfaIY1bhs4uL0XAu4ARQHvLKw4t2SzYzHJLwKKx"],
+    "expected": 0
+  },
+  { "input": ["JZ3a55eSK8Rzi69F30ugOnXDBAjQ"], "expected": 0 },
+  { "input": ["CtGzAuvEqmnHwZzOBbbnWvfrHJuWFpWh"], "expected": 0 },
+  {
+    "input": [
+      "KNEcRaUNyb4viD4SSByyXtKPr08CPbmoZGNPD1HgbJEPr1MU3ES8IPoD0ZoLv7LNElLz3eF9KCrDQtvySun4BILHGq"
+    ],
+    "expected": 0
+  },
+  { "input": ["PbY8S0v27mLrxlkFo"], "expected": 1 },
+  {
+    "input": [
+      "OACjmC9Wrk4HJRAdPoLmuGOhq8eyKh4CKLxyoCoaCe7ruC8N09kr7qmt9oPYFl5xgSYWa5Do4JdIryOdIO02v5"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "jCAtKMCcX16eT37Pd4rLdtFsINSMieGWAOZNTaDREf2mvfbZM2zH1h52DDwgsIKCtN7jJdVbKGis1YLdiF"
+    ],
+    "expected": 0
+  },
+  { "input": ["vxPi3USkGztv"], "expected": 0 },
+  {
+    "input": [
+      "Qxq7w57kxtwoLfyQgyqRwlUYvARaFyCyoMP6GLvxUAdNsFCSLp25JeVegpMX6ghojvZBAnG2REJiejfPCSj65otVz"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "0r8dLD8EE7G2uKAyXYT4ra5f4paMbgrHHcQr42QMBwM0Rg180Ca5LoonG1mlTflbqYOXoi3Lvyc"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "UGv3BYq3BvmXxNIgtn8ynIUAvmT7yBY6b09TDb2YpWFiJIZCKVIlWUvRlORPszsrcAi1z3"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "VUPAu5GdkJVzcIhEWxJCtdDfZYxUpHlkdCqYcLhp0oR6qy6jc1ARgmjHbXoAWSUHTloU3NpxdS"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "zzzn5cqTglzGa2OFp3n4NIX2rVXXBrSBkxzjwWi7lxvYNzrqrKPtTscExXaZ7ogLyWULaALeOOH"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "vfe2ZhNrssSTu64DMJDRDTeBGCGfGAOwubso73ANDYrjQkb9McgGnGyyIgS01WfCUeycJpWy71lDHng8KYF1PIs5Ur"
+    ],
+    "expected": 0
+  },
+  { "input": ["v2vcPoesjmyNSdN"], "expected": 0 },
+  {
+    "input": [
+      "7eXfRm8JjWMGggemc1qSkGQGqMqGPyBtu3657EJzZno7V5xgZZaHPCPJuCTIpnStgUTgpyh37VgjD6PxOsWhVwbOsl"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "L3PP6AqBAY7x4mV1FZUXzc7j0Jx2Ok7mC5sfsikAm3OsfPwD4TZjvfXDngofyZQzhNlw7KN9wUzyMti1ptkkl9jKaShc5k7wP"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "CW92ZLGCHnXgvLc49KonQUd9vpDBmqIJmEsdzu141Ba3eqeHlW1GaHl0E9FQNAAEmsT0ZfQjUPSxqXz"
+    ],
+    "expected": 0
+  },
+  { "input": ["Bsn2O0x1ctvkl"], "expected": 1 },
+  { "input": ["6tzF3HUpTQH"], "expected": 0 },
+  {
+    "input": [
+      "CsvH7RwCuJceaRa8gDBdbug8sXtJLes2chXUiOqJwKgQcgTK3BSBbb9nxd9nqmWBYG2Dw0sNjZiLEPwbjiL55"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "3Z5D0d7Kvcz0r5hIVUxZC1lFwUL2qCNUcAw6ymFz4GiRafFGf4lxEKGAFQqBNb55Xq"
+    ],
+    "expected": 0
+  },
+  { "input": ["zBUqQqiHF"], "expected": 0 },
+  {
+    "input": [
+      "2cxpNKqpLFfTycs577L1RvVAKucFbE4is9mmD0QUJv7SWTOd6C5RsXDwZe62hIfSvPtybjGntjF4jaVvsaoK6Qww1Zd1nzrzI"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "esj87ZRAB5NcXchc82NFtEbQ70nm9vfq2BhxBc6El5KdynNMpLRbVYJbIqBldHq"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "gzvRZklIY03PvKI1fMZLB9S1SM7BrS1sShaIXWKs4RrIsRmt3uEghZ2SLWqbK0sfDKa0bFLuGvMdhdLqXbAUDyh5YwFqpB"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["PCeooPOwCtyoQRGHAs3jOv8lrsCllmwZZ9YTvytmHIHUdkY7rFhwt"],
+    "expected": 0
+  },
+  { "input": ["sQjFyIs6kFoXB1i5X8yVqeNgO6jQXiM47dOaPbXq"], "expected": 0 },
+  {
+    "input": [
+      "iH0Af9zG0VARhuXVL1gpN8weQfzH9mfgadTA8KArPKELhGWU4F4C3Wa2h2Fxf7rhX58SV3f5phJTcY"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "u9s18Rr487HPJUmGHceGBHEW1pgrnJ8zqIC64tU63iCTLGYUDha7lF1FNOr3coJYWpEawKyVOsUykTmWFYnM6SaOmHMy2WoZ"
+    ],
+    "expected": 0
+  },
+  { "input": ["5V"], "expected": 1 },
+  { "input": ["JP3GQ0njyUkdMnjj0y2YYvip9jt6FQUSJMGBmGxnY7m68"], "expected": 0 },
+  { "input": ["iTCnsHtTNuFolDcDQBzKNKvi7NjYPeJO9SbucGvIlq5"], "expected": 0 },
+  { "input": ["r45XfhdiHjXTlnqw"], "expected": 0 },
+  {
+    "input": [
+      "NdOZGVC7TCbcqKJWiIZ1LwJUHqI7zbEEwZeXChHOlQ6tTmnqP8K5TEwN8H1qNQc"
+    ],
+    "expected": 0
+  },
+  { "input": ["Dke2FCDk9FG7ttEnW4XxXx6vf7FxHh04OF7Lblw1mqg"], "expected": 0 },
+  { "input": ["SOSOzz7SM"], "expected": 0 },
+  {
+    "input": ["i5RR2UkFddXi833VKy6pUtodzOPvJZqeZmZQV16VZv7V6q0MobpSUIAN72"],
+    "expected": 0
+  },
+  { "input": ["PDH5IPg"], "expected": 0 },
+  {
+    "input": [
+      "wLOiZL6ooxf8wckvH9T8PaWR2ntXRXFzDMQswtOMhU3cC4NwuGkuZCsz8sPqw7N54c0qN3nkhv7PtkaBxTd"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "sVdxsDh1tZxF5hy8PbRUoEUTphl4oqHmx7F6OZAPlIPHCYUjMHkylyjEEfevBYpdynmzNzq1fVJ"
+    ],
+    "expected": 0
+  },
+  { "input": ["C0VWBtnR3iDwy3NCgoqMwzr2"], "expected": 0 },
+  { "input": ["lCMvdEHFSZo8xRbhOvL8gbI2Q"], "expected": 0 },
+  {
+    "input": [
+      "2IY74ZlHQAWcf4yG0lwDyNaNjUdEDsYuR8crCbEIFoRounTOH1OJlhO8qAlmtKrduHUEjfVh1lI1o1sWU1EzEEYV9q"
+    ],
+    "expected": 0
+  },
+  { "input": ["Uzwvyj379kXynUncCl954tp2KZ7o4rFESMaDNi9AA"], "expected": 0 },
+  { "input": ["red2MRj"], "expected": 1 },
+  {
+    "input": [
+      "dsTk0WYPOPBDIumtG2loZqrRPCLqlaDLjfhenosc4ZZoy2jszZHuVz7OL1VcIgmnCapDdZUVaUNe2"
+    ],
+    "expected": 0
+  },
+  { "input": ["3Q4c5lFEe0I5Kc0D7HXhszcOny5WnQ9zX3uvNu68xfr6"], "expected": 0 },
+  { "input": ["XDRrWgupjOll3bNg86ioVH8dVKskb"], "expected": 0 },
+  {
+    "input": [
+      "ZfuZoLw74FyvciIuQYNNZ36dpYh6czDF46rA2mTJCdExa4s4jiUILSrfdS8i565oIUaiEv5"
+    ],
+    "expected": 0
+  },
+  { "input": ["a0VYCb5nHhOHyfwXBiK"], "expected": 0 },
+  {
+    "input": [
+      "ZjMgkf9pEPcGvys93SZoOxET9DLgTSr7bIXGEwwqfnL6ci4VPP6EdcnJK3BqNSCMq7SkWK40YWxjKGlrRSsYQV2RE5ABP"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "GIBBGrYyWdssjkhfTtfHYWoCNQOARcqeovEmo1yDo45PaBcg1G30UGui0nk3h7FJr4E6FbG7jeGEKza"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "hCSPbq9LH4t6JTtzMlJ6FYQARfdvCb79mpEXxXJHn8ah70EXAIeKVthxwRiXFn9k8Jwn5ab7Tl"
+    ],
+    "expected": 0
+  },
+  { "input": ["dpOY"], "expected": 1 },
+  { "input": ["auxyUTuEXMX7UTxX0uXirIVpzAc0"], "expected": 0 },
+  { "input": ["mniclOf0itvwSssgIpatY9lcXs5"], "expected": 0 },
+  {
+    "input": [
+      "d9lvncaEnRA4MBZSpNAeLTGpPwybWEBRHSUByKqrXCQqzpFmni4zCIuF34RJ7VAR1CuYqJi8qSNOahAKEtDyyagomQ3IOW"
+    ],
+    "expected": 0
+  },
+  { "input": ["dtXoNdygQc377hYAa8CCyaS0d3Z0kUbq5"], "expected": 0 },
+  {
+    "input": [
+      "2hFksjzmrGPIMt67sI9jGCOQq1RDnFSgdpRZNcXHx8vVDnqp9W6iFXMBHV5HbA4OGhlkeTcC0iBx7wqIZEAtPaDiY7"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "vnjresw8CW7YKa3HjHLKpGbE5bKr0IaaZW5wL4rL8HW0Bc0JCcA51SAJPwyQBGnwlLObaOE6UVYDTqqTMRmDBzAv3r4J5"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["4QdDSHxOOSB6OPpXgfCloDdtrHtnKUIdYl6Dbca2gdcn53JlY4"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "1uQCnEgzsQHYluXpOIqU6GLtwb7EUGNxah8dXQcUoMSw4TaSqJzljbtjVs5yGXogtW"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["98sW7inlDjKo6AGXBrVfTwXTwrUddDQRRhwFq2szl7cvsL9CvOxDuJcOTc0"],
+    "expected": 0
+  },
+  { "input": ["HyHfkZmN187IjWneqceZW6DpwjfqT"], "expected": 0 },
+  {
+    "input": [
+      "Dwr0U2nkB5vYKoqRUIzUIRHmXu65AVlt8vM5iXWVJhluHr8dm0GnKD4GvsJZZoRUv4YqwvSU7gxOgwxrXGiUnfuG7GIuWf"
+    ],
+    "expected": 0
+  },
+  { "input": ["vF"], "expected": 1 },
+  {
+    "input": [
+      "Mmp2yFUXcw23XOMinPgYJcnrJXDRaJqHN5RIHn1ux9e8KmgqRbKm9oU6fJGaVEPsfFNMLwuvUPs"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "vt2bhOs6o89sCcWZzx483Unw76EhfVASIW79RZo3AQzFv5ZtfMdJpanjKB08ISLZUYwGehvrvf31UrF3XY7g1CU2pIfW2Tp"
+    ],
+    "expected": 0
+  },
+  { "input": ["ieUbddI"], "expected": 0 },
+  {
+    "input": [
+      "IkwhH7M6c4KUjqfI7L3LFUaFJdUGKT2lgt1SJePTg4Z9toYL4wv7jUHuFeTJAKxnOOUjT9gENhzU05"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "wGv7BwxCVJYn229dPvrvt2w10nwmw5pMra2BS7Et2wG4EAjTOA3zwdNTtlE2tEKEuZEbX3s1T2Eu3Fl26WdB7rMp09K"
+    ],
+    "expected": 0
+  },
+  { "input": ["BZ1yg1IkMAISTYYZvvldcohyXsBLQjCe6Wbl"], "expected": 0 },
+  { "input": ["KMp5Wj5"], "expected": 0 },
+  {
+    "input": [
+      "toGguUeuXtpRBWbH0sKTrEZfUgRRKfzWedtOPqFZo1HZwGwA87EwsVzEv5oHVDPLYKFJKQAZrGs1gzv7XkQg"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["aeutOhde9yIrckpsilfMDKTISTqPPJ4GammIrfXZI5rGixevx18fO"],
+    "expected": 0
+  },
+  { "input": ["PifFvlXWneCM9QFnIt0AX64apDtxN0QY6B14rJe1Je"], "expected": 0 },
+  {
+    "input": ["BmIevXiM4Ag80I0f8JY6vLtRRkUlyj1eHcmi9eynkMGMWA"],
+    "expected": 0
+  },
+  { "input": ["ynLQ5"], "expected": 1 },
+  { "input": ["1S9fPWn6ya5F7NQDrY1Zu1f38"], "expected": 0 },
+  { "input": ["SCWaUUbMmyvnbK2KvpjLdknWeWvwrxlwoRlsNA"], "expected": 0 },
+  {
+    "input": ["ZJtHPxm77vwdTIfIs5q12VxdPqT40aoafXS2Ql1R3AkGBsaBKyUIvbZD"],
+    "expected": 0
+  },
+  {
+    "input": ["9YDtLiumg8f3SsUG8YQutGuynwvqajdLL3STho4AlmxihDo"],
+    "expected": 0
+  },
+  {
+    "input": ["Jk6YI4U299u28uhrarwiqpaANXRpaVgbhpRKbBjAN5dqJF"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "jVk1ALCifL55lu3mxkq4f8IBAXr9vseSZdGi5aPGPwEY03CBmXcosRyDcQboVDU5Je0GkXQ"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "UXNhiiV6kfy4hRufM4cRHElqJhmkYgrIkcT4AB8JiMsHfXebXdK8fXAVqKIAGWHvwFjc2v0cly6kYspEd43UPg"
+    ],
+    "expected": 0
+  },
+  { "input": ["RycFl7A7l0IRtj"], "expected": 0 },
+  {
+    "input": ["WhMGXLvAHnr7ISHlWzzL6Zns5jXOIIVPf8PMMccRv4eh4hTI6"],
+    "expected": 0
+  },
+  { "input": ["1C1ie7"], "expected": 0 },
+  {
+    "input": [
+      "femu8hXoW0tN4GB9pzu6RBYecOZRrZTG65yXkUK4yWPGSBFQCdlILIAU1TVFB7xbwQ5fOd6x2VYeUyzmpVBHUOtlGrb"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["gCGXDJG8SE6LAcXCiJAKfWPa1c5gSE1FNW4Vqv5DC4ReUZe21ESIXKqad"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "rXjrtpNdETx26cDOLWfAGNxrNlYVBcY91HULEglC9RsIvPe7seDn0ZBtXoUKX8ei38nCaqqhhTz7D95VRwNuwCRWBkrQ4p"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "vl7XOagwzllPDtKRXs1Y9nKWW6LDDfB2fmonbWdeyRATr4G5yb218Qmf1UmAsouH4qXsfQ"
+    ],
+    "expected": 0
+  },
+  { "input": ["7KGPgS6DDyObGUt88xXOC"], "expected": 0 },
+  {
+    "input": ["hYnQ5iJsVTXtqm7eK19aBPgeq3ELtDpPiOGtjwt0bJ9tRVVfWtMV5A103"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "auJd0vp2gkvXAKLw7TaWeIPDC7kNAG7KhJ77vgbHdVXX1d3HSe0zvnMWN4NbUzP3fBzuHu6F2rMMDGuqalgtHbQn4OMXzxDAwY"
+    ],
+    "expected": 0
+  },
+  { "input": ["M0BGRox0F"], "expected": 0 },
+  {
+    "input": [
+      "NdSCKwPybIV9Um3u5AxQZuwdt8yTzL0s3MvsQXJo8ansQwY7bh6ErKbjn2URVSmFZULHWLjELhM9MFHk2sY8"
+    ],
+    "expected": 0
+  },
+  { "input": ["ylryNNqkkqcgmGTjdvf0J4Ge3"], "expected": 0 },
+  {
+    "input": [
+      "mfV8LSxoNr6Ym3f7Oe72bD4ZOW0XHEPJbfiptolNohaeGPdVUmBbH72hgMBUCrn132irBHPlJvPMiAzOInRTXYT"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["ZX3xd1JPXbqzh1CLnORufovkx98xWNXGzWLjDe8E7Uv1hgeTBgN5k"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "9DeBNOmuXbPCWonHLuAIzfOY6n3ies0AdWeboWHoxTqZekhFe0gaq9lE3Gfmlb7pNA"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["eL6tvZzt0qNDQ6JsNNJzNRvVYXdrXbT6C74boeD1KoLuLNEQLZZ3dF"],
+    "expected": 0
+  },
+  {
+    "input": ["VN0EcaxfOIS48myePkPC7xv4y3EW9uLq6hmf1DaQfG4cCNAgviUR8ifW9FNx"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "kC8FKXDGsse87kRqZFJipeGZfEXNYVR5wPxn9gpeJYGQsSd71mv0A3fr7JgobZxqZMLMwioq9lwVdiUzl"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["bEHwarRz7NxXigQotRWx6h82iLqzz3DnvxsqXcIgnTsVh3uxhfSRpaW"],
+    "expected": 0
+  },
+  { "input": ["WoGHbQU0jv1atZNjDQsFJ2wIQbLDwuDPM"], "expected": 0 },
+  {
+    "input": ["66KWHEtSVjHqYBnuKZRKbn1SEObsAy3pQ6EZjbXOmOglS8TRb"],
+    "expected": 0
+  },
+  { "input": ["o1h0FacDOBMFbPKkBUojt"], "expected": 0 },
+  {
+    "input": ["MTWaQ18FHsBuFpzEOdhLUyMoLP86j67bvLx6MqdkV2P2RS9twkaOt810ULkmZ"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "3sePy5QLTlzFEdviATjY1rtVOFRnSz91nxbJwxQ3htWR9ILULzVY2IsnMTu0Ej5lWzi"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "noy5cpxOVjlQjlCc24oCmJ5qI53Cn8W5NB1hdgWBlNphoZdLGoRBaEiiPI0qaJCz9mQihjS0Z7tyebkoWi5NsOIKt"
+    ],
+    "expected": 0
+  },
+  {
+    "input": [
+      "Rqhlsktly4l09KQVzSERncSOeBWJpAWACP86iS11BQO1bFV6kFFGeFaEOl81Z1YxBbpLIRSWVCCLDMcADU6jJ9Ss543"
+    ],
+    "expected": 0
+  },
+  { "input": ["hrKalSqxyYyvAHGRz"], "expected": 0 },
+  {
+    "input": ["mhTXqlij0Chn0tVyLvPQa7O6wRPPlQ1wye7U8w9TYBtQbOPe9dg0"],
+    "expected": 0
+  },
+  {
+    "input": ["6568PCTQS6TzBnfrZCs1RHVeJYnGjzr9Jf0M8yOBZEGeajQaKweX5LCKqd"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "XmG4fK3jZ7E7C45eqX286y1Gc6JlUlBG15tiYL9hBJCzVwld0flNO3K4Tbb3YUaj1pKVMRCWaxhDH591S0"
+    ],
+    "expected": 0
+  },
+  { "input": ["aZJBx"], "expected": 1 },
+  { "input": ["bifXzou9Ba4glcs5P"], "expected": 1 },
+  { "input": ["khwJekm5Fbk2QUSD"], "expected": 0 },
+  {
+    "input": ["UaiobvyHHlKaVvkG66kfZYVbG2jwjodrd94nZHZVTd1syOyK8HCwN9CeM"],
+    "expected": 0
+  },
+  {
+    "input": ["ZW6zgHj1Q4kV9z5pNE7h8y84FCPCbMPRBmhgMKYaqojDztt"],
+    "expected": 0
+  },
+  {
+    "input": [
+      "MKfgtc5ljf842oT3SFH1kSJTqVxXeV60MWjIb6E3oWKghzg6k3MOR4jOE2JvSuV9qrpVAvPoOWMRL9PwFTACq6a9nbd0V6s0Gu0"
+    ],
+    "expected": 0
+  },
+  {
+    "input": ["d5OMCu24qJE8JsCRelTx24kjnvdkVKaPziVGw4lRIc1N3r3Np"],
+    "expected": 0
+  },
+  { "input": ["nbDL8P7uiVVIiDG32d61m368d"], "expected": 0 }
+]

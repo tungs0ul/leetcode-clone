@@ -1,0 +1,99 @@
+###
+GET http://localhost:5000/ HTTP/1.1
+
+### get all problems page 0
+GET http://localhost:5000/problems?page=0 HTTP/1.1
+
+### get problem by id = 2
+GET http://localhost:5000/problem?id=2 HTTP/1.1
+
+### send solution to problem with id 2
+### solution('aaaabbc') = 4 
+### syntax error
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "test": "2.json",
+  "language": "py",
+  "function": "solution",
+  "code": "\n\tdef solution(s):\n\t\treturn max([s.count(x) for x in set(s)])\n"
+}
+
+### send solution to problem with id 2
+### solution('aaaabbc') = 4 
+### name error
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "test": "2.json",
+  "language": "py",
+  "function": "solution",
+  "code": "\n\tdef solution(s):\n\t\tif not len(s):\n\t\t\treturn 0\n\t\treturn max([s.count(x) for x in set(s)])"
+}
+
+### send solution to problem with id 2
+### solution('aaaabbc') = 4 
+### wrong answer
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "test": "2.json",
+  "language": "py",
+  "function": "solution",
+  "code": "\tdef solution(s):\n\t\treturn len(s)"
+}
+
+### send solution to problem with id 2
+### solution('aaaabbc') = 4 
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "test": "2.json",
+  "language": "py",
+  "function": "solution",
+  "code": "\tdef solution(s):\n\t\tif not len(s):\n\t\t\treturn 0\n\t\treturn max([s.count(x) for x in set(s)]) + 1"
+}
+
+###
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "test": "2.json",
+  "language": "js",
+  "function": "test",
+  "code": "const test=(str)=>{if(!str.length)return 0;const x={};for(let i=0;i<str.length;i++){x[str[i]]=x[str[i]]?x[str[i]]+1:1}return Math.max(...Object.values(x))};"
+}
+
+###
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "test": "2.json",
+  "language": "JavaScript",
+  "function": "test",
+  "code": "function test(str){return strdwd.length}"
+}
+
+
+### infinitive loop
+POST http://localhost:5000/code HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "test": "2.json",
+  "language": "py",
+  "function": "solution",
+  "code": "\n\tdef solution(str):\n\t\twhile True:\n\t\t\tpass"
+}

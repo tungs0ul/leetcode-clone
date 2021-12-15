@@ -1,0 +1,78 @@
+[0;1;32m●[0m ip-172-31-20-226
+    State: [0;1;32mrunning[0m
+     Jobs: 0 queued
+   Failed: 0 units
+    Since: Sun 2021-12-12 18:39:33 UTC; 5min ago
+   CGroup: /
+           ├─[0;38;5;245m762 bpfilter_umh[0m
+           ├─user.slice 
+           │ └─user-1000.slice 
+           │   ├─[0;4muser@1000.service[0m [0;1;39m…[0m
+           │   │ └─init.scope 
+           │   │   ├─[0;38;5;245m950 /lib/systemd/systemd --user[0m
+           │   │   └─[0;38;5;245m951 (sd-pam)[0m
+           │   └─session-1.scope 
+           │     ├─[0;38;5;245m 947 sshd: ubuntu [priv][0m
+           │     ├─[0;38;5;245m1047 sshd: ubuntu@pts/0[0m
+           │     ├─[0;38;5;245m1048 -bash[0m
+           │     ├─[0;38;5;245m1099 sudo systemctl status[0m
+           │     ├─[0;38;5;245m1100 systemctl status[0m
+           │     └─[0;38;5;245m1101 pager[0m
+           ├─init.scope 
+           │ └─[0;38;5;245m1 /sbin/init[0m
+           └─system.slice 
+             ├─apache2.service 
+             │ ├─[0;38;5;245m491 /usr/sbin/apache2 -k start[0m
+             │ ├─[0;38;5;245m495 /usr/sbin/apache2 -k start[0m
+             │ ├─[0;38;5;245m496 /usr/sbin/apache2 -k start[0m
+             │ └─[0;38;5;245m497 /usr/sbin/apache2 -k start[0m
+             ├─[0;4mcontainerd.service[0m [0;1;39m…[0m
+             │ └─[0;38;5;245m424 /usr/bin/containerd[0m
+             ├─systemd-networkd.service 
+             │ └─[0;38;5;245m348 /lib/systemd/systemd-networkd[0m
+             ├─systemd-udevd.service 
+             │ └─[0;38;5;245m191 /lib/systemd/systemd-udevd[0m
+             ├─cron.service 
+             │ └─[0;38;5;245m398 /usr/sbin/cron -f[0m
+             ├─system-serial\x2dgetty.slice 
+             │ └─serial-getty@ttyS0.service 
+             │   └─[0;38;5;245m447 /sbin/agetty -o -p -- \u --keep-baud 115200,38400,9600 ttyS0 vt220[0m
+             ├─[0;4mdocker.service[0m [0;1;39m…[0m
+             │ └─[0;38;5;245m612 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock[0m
+             ├─polkit.service 
+             │ └─[0;38;5;245m464 /usr/lib/policykit-1/polkitd --no-debug[0m
+             ├─networkd-dispatcher.service 
+             │ └─[0;38;5;245m416 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers[0m
+             ├─multipathd.service 
+             │ └─[0;38;5;245m264 /sbin/multipathd -d -s[0m
+             ├─accounts-daemon.service 
+             │ └─[0;38;5;245m385 /usr/lib/accountsservice/accounts-daemon[0m
+             ├─systemd-journald.service 
+             │ └─[0;38;5;245m161 /lib/systemd/systemd-journald[0m
+             ├─atd.service 
+             │ └─[0;38;5;245m422 /usr/sbin/atd -f[0m
+             ├─unattended-upgrades.service 
+             │ └─[0;38;5;245m507 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal[0m
+             ├─ssh.service 
+             │ └─[0;38;5;245m654 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups[0m
+             ├─snapd.service 
+             │ └─[0;38;5;245m418 /usr/lib/snapd/snapd[0m
+             ├─mysql.service 
+             │ └─[0;38;5;245m567 /usr/sbin/mysqld[0m
+             ├─rsyslog.service 
+             │ └─[0;38;5;245m417 /usr/sbin/rsyslogd -n -iNONE[0m
+             ├─systemd-resolved.service 
+             │ └─[0;38;5;245m350 /lib/systemd/systemd-resolved[0m
+             ├─udisks2.service 
+             │ └─[0;38;5;245m421 /usr/lib/udisks2/udisksd[0m
+             ├─acpid.service 
+             │ └─[0;38;5;245m386 /usr/sbin/acpid[0m
+             ├─dbus.service 
+             │ └─[0;38;5;245m402 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only[0m
+             ├─systemd-timesyncd.service 
+             │ └─[0;38;5;245m294 /lib/systemd/systemd-timesyncd[0m
+             ├─system-getty.slice 
+             │ └─getty@tty1.service 
+             │   └─[0;38;5;245m451 /sbin/agetty -o -p -- \u --noclear tty1 linux[0m
+             └─systemd-logind.service 
+               └─[0;38;5;245m419 /lib/systemd/systemd-logind[0m

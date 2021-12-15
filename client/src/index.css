@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.descripton {
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+
+input {
+  width: 150px;
+}
+.problems{ 
+  height: calc(100vh - 30px);
+}
+
+.hover {
+  color: #949494;
+  background-color: #212121;
+  border: 1px solid #757575;
+}
+
+.hover:hover {
+  color: white;
+  border: 1px solid #ffffff;
+}
+
+.output {
+  height: 150px;
+  overflow-y: auto;
+}
+
+.mytransition {
+  transition: 0.3s ease-out;
+}
+
+.editor {
+  height: calc(100vh - 64px);
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
